@@ -1,1 +1,64 @@
-<mxfile host="app.diagrams.net" modified="2020-10-07T01:49:59.750Z" agent="5.0 (X11)" etag="QhBq5OPboyCljJiOhlid" version="13.7.7" type="github"><diagram id="oz5weRvFCRklSf2JF1Bt" name="LKM PD4">7VrbcpswEP0aP9oDAmPnMRcn6Uw76Yw70+ZRNgqoEYgI4Uu/vsJIRrLBJimJcScvibVaScvunqNl7Z5zHa3uGEzCb9RHpAcsf9VzbnoAjLwL8TcXrAuB6w0LQcCwX4jsUjDFf5AUWlKaYR+lhiKnlHCcmMI5jWM054YMMkaXptoTJeapCQzQnmA6h2Rf+hP7PCyk46FVyu8RDkJ1sm3JmQgqZSlIQ+jTpSZyJj3nmlHKi0/R6hqR3HfKL8W625rZrWEMxbzJgvFD/x7czV/Ch8njlZOuF9b0pS+jk/K1emDki+eXQ8p4SAMaQzIppVeMZrGP8l0tMSp1vlKaCKEthL8R52sZTJhxKkQhj4icRSvMf+XLB0M5etRmblZy581grQ2+I4YjxBFTspiztbZRPnzU58qtNiO1177npDNTmrE5OuCukcxAyALED+iNC73cl9oBMi53iIqnYGuhwBCBHC/MXIMyZYOtXhlV8UEG9hVBllYvIMnkST3gEWH/1Ux8CPjGJYXgiQqX6PngvWRUTfTTTUQvhYJrJatyUu0yFY7haitharGbeYIQa6fuJF/KGX3eAg2YaSMAlOR60SrIqWbwROhyHooTByIlIhxDTkVmXC1DzNE0gZtALoXmoYgvEONodTBGataTOJZENpbDZckKW5VQYwSl13pUbXvPfV3FrobTC0dHat8aWMA+AtfNaBf7b8fwuCGG1Q3UERCPa0HcFLPArcLslzjJ8uUzTOxa6O7CVCJRuB8SgggVgIx2wLqH5ESLoLFQC20leMuczTeGbC6T0853LR5PZBZwWsL5yMQ5cCqA7n4o0J1TAt3WYF6C/hjQjeu4vJ1bv5AVSI+jGXQKzcru94Qz+ITz/rXtDE8O5+E53tuvqa9bvrAVdI9j3O0WxkEtxn28eGvlXQ37BEUzGGAYC41i9ZEavMKC1o0qSopbnYpmrMKWJibuIMYkkSqa0XIfzlJKMo4uS64xmcetZLgW2MfZKSYct4J9RhXss20jtJ+Vo7OpJg6+8n9YheE2ZR+vW+xz2tbOP8b5I+LVrSaNsvvwbQET+AzD3DUl4TfkdOjDnGRgikm8hpt74vYgLR/i3zc2anw0xymmcQ1nt8G446HBuG5Vn6aq3tsKW48sAGdX8G1bMs3Yte2Cz2sIYdCtFo2yuw7Cb62j2qnGfmAfPotZX3BIgyZtHZmc9iF8nL/bCuIT/2JK2i4r/+c34eGFWYsO7X1mBNZHvgmDM+xgn5YYm/auu0aM9c3rDnAKzwhOcz7BBOJzJcaakvCTAw0O7B4FvlcfeBL7jdu/3f3S1bXNgHlV1XxVwLzXB0wMyx9jbOa0X7Q4k78=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-07T01:54:26.449Z" agent="5.0 (X11)" etag="k0ce7cbyxI9ETwLAk9VP" version="13.7.7" type="github">
+  <diagram id="oz5weRvFCRklSf2JF1Bt" name="LKM PD4">
+    <mxGraphModel dx="1282" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8O-H2GcqhOEYB3syv0Sq-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="8O-H2GcqhOEYB3syv0Sq-7" target="8O-H2GcqhOEYB3syv0Sq-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8O-H2GcqhOEYB3syv0Sq-7" value="&lt;b&gt;&lt;font style=&quot;font-size: 40px&quot;&gt;Start&lt;/font&gt;&lt;/b&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="160" y="80" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8O-H2GcqhOEYB3syv0Sq-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.593;entryY=-0.021;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="8O-H2GcqhOEYB3syv0Sq-8" target="8O-H2GcqhOEYB3syv0Sq-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8O-H2GcqhOEYB3syv0Sq-8" value="&lt;font style=&quot;font-size: 24px&quot;&gt;Input bil1&lt;/font&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
+          <mxGeometry x="170" y="230" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8O-H2GcqhOEYB3syv0Sq-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="8O-H2GcqhOEYB3syv0Sq-10" target="8O-H2GcqhOEYB3syv0Sq-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8O-H2GcqhOEYB3syv0Sq-10" value="&lt;font style=&quot;font-size: 24px&quot;&gt;Input bil2&lt;/font&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
+          <mxGeometry x="160" y="350" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8O-H2GcqhOEYB3syv0Sq-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="8O-H2GcqhOEYB3syv0Sq-12" target="8O-H2GcqhOEYB3syv0Sq-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8O-H2GcqhOEYB3syv0Sq-12" value="&lt;div&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;pembagian =&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;bil1/bil2&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="370" y="340" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="8O-H2GcqhOEYB3syv0Sq-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="8O-H2GcqhOEYB3syv0Sq-14" target="8O-H2GcqhOEYB3syv0Sq-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8O-H2GcqhOEYB3syv0Sq-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="8O-H2GcqhOEYB3syv0Sq-14" target="8O-H2GcqhOEYB3syv0Sq-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8O-H2GcqhOEYB3syv0Sq-14" value="&lt;div&gt;apakah pembagian&lt;/div&gt;&lt;div&gt;ada hasilnya ?&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="385" y="480" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="8O-H2GcqhOEYB3syv0Sq-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="8O-H2GcqhOEYB3syv0Sq-16" target="8O-H2GcqhOEYB3syv0Sq-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8O-H2GcqhOEYB3syv0Sq-16" value="&lt;div style=&quot;font-size: 24px&quot;&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;Tidak dapat&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 24px&quot;&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;di bagi nol&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
+          <mxGeometry x="590" y="510" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8O-H2GcqhOEYB3syv0Sq-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="8O-H2GcqhOEYB3syv0Sq-18" target="8O-H2GcqhOEYB3syv0Sq-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8O-H2GcqhOEYB3syv0Sq-18" value="&lt;div style=&quot;font-size: 24px&quot;&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;tulis nilai&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 24px&quot;&gt;&lt;font style=&quot;font-size: 24px&quot;&gt; pembagian&lt;/font&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
+          <mxGeometry x="90" y="510" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8O-H2GcqhOEYB3syv0Sq-20" value="&lt;font style=&quot;font-size: 24px&quot;&gt;End&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="410" y="680" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qAM2_gK260F9iqnZWkzB-1" value="&lt;div style=&quot;font-size: 24px&quot; align=&quot;left&quot;&gt;Psuedo code:&lt;/div&gt;&lt;div style=&quot;font-size: 24px&quot; align=&quot;left&quot;&gt;1. input bil1&lt;/div&gt;&lt;div style=&quot;font-size: 24px&quot; align=&quot;left&quot;&gt;2. input bil 2&lt;/div&gt;&lt;div style=&quot;font-size: 24px&quot; align=&quot;left&quot;&gt;3. Pembagian dua bilangan&lt;/div&gt;&lt;div style=&quot;font-size: 24px&quot; align=&quot;left&quot;&gt;4. Mencari tau apakah ada hasil pembagian.&lt;/div&gt;&lt;div style=&quot;font-size: 24px&quot; align=&quot;left&quot;&gt;5. Jika iya, maka tulis pembagian, jika tidak maka tampilkan alert &quot;Tidak dapat dibagi nol&quot;.&lt;/div&gt;&lt;div style=&quot;font-size: 24px&quot; align=&quot;left&quot;&gt;6. Program selesai.&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="760" width="780" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="qAM2_gK260F9iqnZWkzB-2" value="&lt;div style=&quot;font-size: 24px&quot; align=&quot;left&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;Nama : M. Rizqi R&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 24px&quot; align=&quot;left&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;NIM&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; : 20051204034&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 24px&quot; align=&quot;left&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;Kelas&amp;nbsp;&amp;nbsp; : TI-B&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 24px&quot; align=&quot;left&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;Tugas LKM 4&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="405" y="50" width="395" height="160" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
