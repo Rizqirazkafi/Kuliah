@@ -40,4 +40,7 @@ int main (){
 
             default : cout << "Angka yang anda masukkan lebih dari 9 atau kurang dari 0 atau bukan angka." << endl;
     }
+
+     cin.get();
+    return 0;
 }

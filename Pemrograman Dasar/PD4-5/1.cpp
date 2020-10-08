@@ -16,4 +16,7 @@ int main (){
     else if(bil1 > bil2)
         cout << bil1 << " > " << bil2 <<endl ;
 
+    cin.get();
+    return 0;
+
 }

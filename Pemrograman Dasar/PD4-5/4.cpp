@@ -32,4 +32,7 @@ int main(){
 
     cout << "Terima kasih \n" <<endl;
 
+     cin.get();
+    return 0;
+
 }

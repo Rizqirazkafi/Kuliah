@@ -57,5 +57,6 @@ int main(){
                         cout << "Nilai yang anda masukkan salah. Program akan berhenti berjalan !" << endl;
     }
 
-
+     cin.get();
+    return 0;
 }

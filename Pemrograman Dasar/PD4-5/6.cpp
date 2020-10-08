@@ -57,6 +57,8 @@ int main (){
     cout << " "<<bil1<<operasi<<bil2<<"=" <<hasil <<endl;
     cout << "-----------------------------" << endl;
 
+     cin.get();
+    return 0;
    
 
 }
