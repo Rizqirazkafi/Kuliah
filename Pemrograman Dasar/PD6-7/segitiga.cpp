@@ -54,29 +54,22 @@ int main() {
     }
   }
   if (pilih == 3) {
-
     int a;
     
     cout << "Masukkan limit : ";
     cin >> a;
     
     cout << "\n";
-    for (int i = 0; i <= a; i++) {
-      for (int k = 0; k <= ((2 * a) - (2 * i)); k++) {
+
+    for (int i = 1; i <= a; i++) {
+      for (int s = 0; s <= a - i; s++) {
         cout << " ";
       }
-      int angka;
-      for (int j = 0; j <= i; j++) {
-        if (j == 0 || i == j)
-          angka = 1;
-        else
-          angka = angka * (i + 1 - j) / j;
-        cout << "  ";
-        cout << angka;
-        cout << " ";
+      for (int j = 0; j <= i + (i - 2); j++) {
+        cout << "U";
       }
-      cout << " "
-           << "\n";
+      cout << "\n";
     }
+    
   }
 }
