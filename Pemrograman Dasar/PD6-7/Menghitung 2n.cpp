@@ -1,4 +1,5 @@
 # include <iostream>
+# include <math.h>
 using namespace std;
 
 int main ()
@@ -6,8 +7,8 @@ int main ()
     int a,b;
     cout << "input Bilangan n = " ;
     cin >> a;
-    b = 2*a;
+    b = pow(2, a);
     cout<<"\n\n";
-    cout << "Hasil 2n Adalah : "<<b;
+    cout << "Hasil 2^n Adalah : "<<b;
     cout<<"\n\n";
 }
