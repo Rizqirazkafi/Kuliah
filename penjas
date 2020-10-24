@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-24T12:43:01.060Z" agent="5.0 (Windows)" etag="M04TvLqCD6_JKbUWvy1l" version="13.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-24T13:11:31.475Z" agent="5.0 (Windows)" etag="ftZwkD0Q3hUFyfBbxIfn" version="13.8.1" type="github">
   <diagram id="eHAPRtiEo3rriIsv-kNr" name="Page-1">
     <mxGraphModel dx="2130" dy="735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -78,6 +78,9 @@
         </mxCell>
         <mxCell id="-rwQ6uIBgbMeDufkNBSA-21" value="PP RI Nomor 74&lt;br/&gt;Tahun 2008 tentang&lt;br/&gt;Guru.&lt;br/&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-rwQ6uIBgbMeDufkNBSA-22" value="PP RI Nomor 37&lt;br/&gt;Tahun 2009 tentang&lt;br/&gt;Dosen&lt;br/&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="650" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
