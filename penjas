@@ -1,0 +1,112 @@
+<mxfile host="app.diagrams.net" modified="2020-10-24T13:28:13.770Z" agent="5.0 (Windows)" etag="8HaD3l5Dzs66tPSu_eNr" version="13.8.1" type="github">
+  <diagram id="eHAPRtiEo3rriIsv-kNr" name="Page-1">
+    <mxGraphModel dx="2130" dy="735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-rwQ6uIBgbMeDufkNBSA-1" value="&lt;font style=&quot;font-size: 20px&quot;&gt;Dasar Hukum Penyelenggaraaan Pendidikan Jasmani&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="340" y="140" width="180" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="-rwQ6uIBgbMeDufkNBSA-2" value="Tujuan Pendidikan Jasmani" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="630" y="190" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-rwQ6uIBgbMeDufkNBSA-3" value="&lt;div style=&quot;font-size: 14px&quot; align=&quot;center&quot;&gt;Tujuan pendidikan jasmani dalam jangka&lt;br&gt;panjang adalah untuk menuju keselarasan&lt;br&gt;antara tumbuhnya badan dan&lt;br&gt;perkembangan jiwa dan merupakan suatu&lt;br&gt;usaha untuk membuat bangsa indonesia&lt;br&gt;menjadi bangsa yang kuat dan sehat lahir&lt;br&gt;dan batin.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="790" y="40" width="270" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="-rwQ6uIBgbMeDufkNBSA-4" value="&lt;div align=&quot;left&quot;&gt;Tujuan pendidikan jasmani jangka pendek:&lt;br/&gt;1. memberi rangsang pertumbuhan badan&lt;br/&gt;2. memperbaiki dan membentuk gerak&lt;br/&gt;dan sikap tubuh.&lt;br/&gt;3. memperbesar daya prestasi&lt;br/&gt;4. memngembangkan kebiasaan hidup&lt;br/&gt;sehat.&amp;nbsp;&lt;br/&gt;5. memajukan semangat kerja sama.&lt;br/&gt;6. menangkal pengaruh buruk kehidupan&lt;br/&gt;dari luar.&lt;br/&gt;7. membentuk dan mempertahankan&lt;br/&gt;kegemaran bergerak&lt;br/&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="250" width="280" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="-rwQ6uIBgbMeDufkNBSA-6" value="" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-rwQ6uIBgbMeDufkNBSA-1" target="-rwQ6uIBgbMeDufkNBSA-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="280" as="sourcePoint" />
+            <mxPoint x="630" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-rwQ6uIBgbMeDufkNBSA-9" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="-rwQ6uIBgbMeDufkNBSA-2" target="-rwQ6uIBgbMeDufkNBSA-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="340" as="sourcePoint" />
+            <mxPoint x="710" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-rwQ6uIBgbMeDufkNBSA-10" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="-rwQ6uIBgbMeDufkNBSA-2" target="-rwQ6uIBgbMeDufkNBSA-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="340" as="sourcePoint" />
+            <mxPoint x="710" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-rwQ6uIBgbMeDufkNBSA-11" value="Hakikat Pendidikan Jasmani" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="110" y="190" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-rwQ6uIBgbMeDufkNBSA-12" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="-rwQ6uIBgbMeDufkNBSA-11" target="-rwQ6uIBgbMeDufkNBSA-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="340" as="sourcePoint" />
+            <mxPoint x="710" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-rwQ6uIBgbMeDufkNBSA-13" value="Undang-Undang Nomor 4 tahun 1950&lt;br/&gt;tentang Dasar-dasar Pendidikan dan&lt;br/&gt;Pengajaran pada bab IV pasal 9, tertulis&lt;br/&gt;pendidikan jasmani yang menuju kepada&lt;br/&gt;keselarasan antara tumbuhnya badan dan&lt;br/&gt;perkembangan jiwa, dan merupakan suatu&lt;br/&gt;usaha untuk membuat bangsa indonesia&lt;br/&gt;yang sehat dan kuat lahir dan batin&lt;br/&gt;diberikan kepada segala jenis sekolah.&lt;br/&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="40" width="240" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="-rwQ6uIBgbMeDufkNBSA-14" value="" style="endArrow=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-rwQ6uIBgbMeDufkNBSA-11" target="-rwQ6uIBgbMeDufkNBSA-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="250" as="sourcePoint" />
+            <mxPoint x="380" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-rwQ6uIBgbMeDufkNBSA-15" value="UNESCO memberikan pengertian&lt;br/&gt;pendidikan jasmani adalah suatu proses&lt;br/&gt;pendidikan manusia sebagai individu atau&lt;br/&gt;anggota masyarakat dilakukan secara&lt;br/&gt;sadar dan sistematis melalui berbagai&lt;br/&gt;kegiatan jasmani untuk memperoleh&lt;br/&gt;penigkatan kemampuan dan keterampilan" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="260" width="260" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="-rwQ6uIBgbMeDufkNBSA-16" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="-rwQ6uIBgbMeDufkNBSA-15" target="-rwQ6uIBgbMeDufkNBSA-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="250" as="sourcePoint" />
+            <mxPoint x="380" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-rwQ6uIBgbMeDufkNBSA-17" value="Menurut Surat Keputusan Menteri&lt;br/&gt;Pendidikan dan Kebudayaan Nomor&lt;br/&gt;413/U/1987 menyebutkan bahwa&lt;br/&gt;pendidikan jasmani adalah bagian yang&lt;br/&gt;integral dari pendidikan melalui aktivitas&lt;br/&gt;jasmani yang bertujuan untuk&lt;br/&gt;meningkatkan individu secara organik,&lt;br/&gt;neuromuscular, intelektual, dan emosional." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-300" y="420" width="250" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="-rwQ6uIBgbMeDufkNBSA-18" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="-rwQ6uIBgbMeDufkNBSA-17" target="-rwQ6uIBgbMeDufkNBSA-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="490" as="sourcePoint" />
+            <mxPoint x="340" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-rwQ6uIBgbMeDufkNBSA-19" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Landasan&lt;br/&gt;penyelenggaraan&lt;br/&gt;kegiatan pendidikan&lt;br/&gt;jasmani di sekolah&lt;br/&gt;dan perguruan&lt;br/&gt;tinggi.&lt;br/&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="355" y="560" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="-rwQ6uIBgbMeDufkNBSA-20" value="UU RI Nomor 3&lt;br/&gt;Tahun 2005 tentang&lt;br/&gt;Sistem Keolahragaan&lt;br/&gt;Nasional.&lt;br/&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="820" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-rwQ6uIBgbMeDufkNBSA-21" value="PP RI Nomor 74&lt;br/&gt;Tahun 2008 tentang&lt;br/&gt;Guru.&lt;br/&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-rwQ6uIBgbMeDufkNBSA-22" value="PP RI Nomor 37&lt;br/&gt;Tahun 2009 tentang&lt;br/&gt;Dosen&lt;br/&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="355" y="830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-rwQ6uIBgbMeDufkNBSA-23" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="-rwQ6uIBgbMeDufkNBSA-20" target="-rwQ6uIBgbMeDufkNBSA-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="490" as="sourcePoint" />
+            <mxPoint x="340" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-rwQ6uIBgbMeDufkNBSA-24" value="" style="endArrow=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="-rwQ6uIBgbMeDufkNBSA-21" target="-rwQ6uIBgbMeDufkNBSA-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="490" as="sourcePoint" />
+            <mxPoint x="340" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-rwQ6uIBgbMeDufkNBSA-25" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="-rwQ6uIBgbMeDufkNBSA-22" target="-rwQ6uIBgbMeDufkNBSA-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="490" as="sourcePoint" />
+            <mxPoint x="340" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-rwQ6uIBgbMeDufkNBSA-26" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="-rwQ6uIBgbMeDufkNBSA-19" target="-rwQ6uIBgbMeDufkNBSA-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="490" as="sourcePoint" />
+            <mxPoint x="340" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
