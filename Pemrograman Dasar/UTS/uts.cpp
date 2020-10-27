@@ -120,5 +120,7 @@ int main() {
          << endl;
   }
 
+  cout << "Terima kasih "<< endl;
+
   // Desimal ke Oktal
 }
