@@ -33,6 +33,7 @@ int main() {
     reverse(bits.begin(), bits.end());
     cout << bits << endl;
   } else if (pil == 2) {
+    // Desimal ke Oktal
     cout << " Masukkan bilangan desimal (Maksimal 65535) : ";
     cin >> des_num;
     int oct_num = 0, awal = 1;
@@ -45,6 +46,7 @@ int main() {
 
     cout << oct_num << endl;
   } else if (pil == 3) {
+    // Binari ke Desimal
     cout << " Masukkan bilangan binari (Maksimal 16 bit) : ";
     cin >> bits;
     des_num = 0;
@@ -59,7 +61,7 @@ int main() {
 
     cout << "Nilai desimalnya ialah : " << des_num << endl;
   } else if (pil == 4) {
-    
+    // Oktal ke Desimal
     long int oct_num, dec_num = 0;
     int i = 0;
     cout << "Masukkan bilangan oktal (Maksimal 177777) : ";
@@ -72,6 +74,10 @@ int main() {
     }
      cout << "Nilai desimalnya adalah : " << dec_num << endl;
      getch();
+  } else { 
+    
+    cout << "Nilai yang anda masukkan salah"  << endl;
+  
   }
 
   // Desimal ke Oktal
