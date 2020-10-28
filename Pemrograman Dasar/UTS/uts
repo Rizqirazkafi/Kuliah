@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-28T01:24:30.619Z" agent="5.0 (X11)" etag="9VsCG0XYPZKcZ0CMFAz-" version="13.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-28T01:34:52.006Z" agent="5.0 (X11)" etag="NXUnnuQ8AXNWv7QAUJMj" version="13.8.5" type="github">
   <diagram id="HqaYgCoFOxBdFjzKVUNl" name="Page-1">
     <mxGraphModel dx="927" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -19,20 +19,60 @@
         <mxCell id="870JM9SC8Y5TCyAheToO-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="870JM9SC8Y5TCyAheToO-3" target="870JM9SC8Y5TCyAheToO-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="870JM9SC8Y5TCyAheToO-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="870JM9SC8Y5TCyAheToO-3" target="870JM9SC8Y5TCyAheToO-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="870JM9SC8Y5TCyAheToO-3" value="while (loginAttempt &amp;lt; 5 )" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="355" y="200" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="870JM9SC8Y5TCyAheToO-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="870JM9SC8Y5TCyAheToO-4" target="870JM9SC8Y5TCyAheToO-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="870JM9SC8Y5TCyAheToO-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="870JM9SC8Y5TCyAheToO-4" target="870JM9SC8Y5TCyAheToO-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="590" y="300" />
+              <mxPoint x="590" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="870JM9SC8Y5TCyAheToO-4" value="&lt;div&gt;Masukkan Username &lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;amp;&lt;/div&gt;&lt;div&gt;Password&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
           <mxGeometry x="327" y="270" width="197" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="870JM9SC8Y5TCyAheToO-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#FF0000;" edge="1" parent="1" source="870JM9SC8Y5TCyAheToO-5" target="870JM9SC8Y5TCyAheToO-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="870JM9SC8Y5TCyAheToO-5" value="while(final !=n)" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="355" y="360" width="140" height="40" as="geometry" />
+          <mxGeometry x="355.5" y="370" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="870JM9SC8Y5TCyAheToO-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FF0000;" edge="1" parent="1" source="870JM9SC8Y5TCyAheToO-10" target="870JM9SC8Y5TCyAheToO-21">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="870JM9SC8Y5TCyAheToO-10" value="1. Desimal ke Binari&lt;br&gt;2. Desimal ke Oktal&lt;br&gt;3. Binari ke Desimal&lt;br&gt;4. Oktal ke Desimal" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
           <mxGeometry x="326" y="430" width="195" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="870JM9SC8Y5TCyAheToO-13" value="Correct" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#00FF00;" vertex="1" parent="1">
+          <mxGeometry x="435" y="340" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="870JM9SC8Y5TCyAheToO-14" value="incorrect" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="530" y="270" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="870JM9SC8Y5TCyAheToO-17" value="loginAttempt = 5" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="200" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="870JM9SC8Y5TCyAheToO-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FF0000;" edge="1" parent="1" source="870JM9SC8Y5TCyAheToO-18" target="870JM9SC8Y5TCyAheToO-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="870JM9SC8Y5TCyAheToO-18" value="&lt;div&gt;&lt;font color=&quot;#33001A&quot;&gt;Terlalu banyak percobaan &lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#33001A&quot;&gt;login. Program akan di tutup&lt;/font&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="10" y="190" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="870JM9SC8Y5TCyAheToO-19" value="&lt;font color=&quot;#000000&quot;&gt;End&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="75" y="300" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="870JM9SC8Y5TCyAheToO-21" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="373.5" y="550" width="100" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
