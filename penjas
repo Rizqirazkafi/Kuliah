@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-28T13:21:16.432Z" agent="5.0 (X11)" etag="QwkOEYJ3LWZPZ5cJ4QXc" version="13.8.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-10-28T13:22:48.699Z" agent="5.0 (X11)" etag="BXFdD28BAk28-aZS-fD1" version="13.8.5" type="github" pages="2">
   <diagram id="eHAPRtiEo3rriIsv-kNr" name="bab 1">
     <mxGraphModel dx="2372" dy="908" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -110,7 +110,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="3p6jIampZoipjjw0WyBF" name="bab 2">
-    <mxGraphModel dx="927" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1854" dy="2190" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="jwWe09V19Py0BphiwUt3-0" />
         <mxCell id="jwWe09V19Py0BphiwUt3-1" parent="jwWe09V19Py0BphiwUt3-0" />
@@ -127,6 +127,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="thGGcsjp_FtRDFd_Jp-y-23" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="jwWe09V19Py0BphiwUt3-1" source="OaqdFE-LO9jaewdRNfSJ-1" target="thGGcsjp_FtRDFd_Jp-y-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="thGGcsjp_FtRDFd_Jp-y-25" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="jwWe09V19Py0BphiwUt3-1" source="OaqdFE-LO9jaewdRNfSJ-1" target="thGGcsjp_FtRDFd_Jp-y-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OaqdFE-LO9jaewdRNfSJ-1" value="&lt;div&gt;&lt;b&gt;Makna Pendidikan Jasmani&lt;/b&gt;&lt;br&gt;&lt;/div&gt;Pendidikan&amp;nbsp;&amp;nbsp; jasmani&amp;nbsp;&amp;nbsp; pada&amp;nbsp;&amp;nbsp; era&amp;nbsp;&amp;nbsp; saat&amp;nbsp;&amp;nbsp; ini&amp;nbsp;&amp;nbsp; lebih&amp;nbsp;&amp;nbsp; dikenal&amp;nbsp;&amp;nbsp; dengan&amp;nbsp; Pendidikan&amp;nbsp; Jasmani&amp;nbsp; Olahraga&amp;nbsp; dan&amp;nbsp; Kesehatan&amp;nbsp; (PJOK).&amp;nbsp; Menurut Samsudin (2008: 2), pengertian pendidikan jasmani atau PJOK yaitu proses pembelajaran melalui aktivitas jasmani dan&amp;nbsp; direncanakan&amp;nbsp; secara&amp;nbsp; sistematik&amp;nbsp; yang&amp;nbsp; bertujuan&amp;nbsp; untuk meningkatkan individu secara organik, neuromoskuler, perseptual, kognitif, sosial dan emosional." style="rounded=1;whiteSpace=wrap;html=1;sketch=0;" vertex="1" parent="jwWe09V19Py0BphiwUt3-1">
@@ -182,6 +185,9 @@
         </mxCell>
         <mxCell id="thGGcsjp_FtRDFd_Jp-y-16" value="Olahraga selalu berbentuk pertandingan dan latihan-latihan yang dilakukan adalah berupa persiapan untuk pertandingan yang harus dimenangkan. Pendidikan jasmani tidak selalu berbentuk pertandingan meskipun motif bertanding ada kalanya dapat dimanfaatkan." style="rounded=1;whiteSpace=wrap;html=1;sketch=0;" vertex="1" parent="jwWe09V19Py0BphiwUt3-1">
           <mxGeometry x="1360" y="500" width="415" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="thGGcsjp_FtRDFd_Jp-y-24" value="&lt;div&gt;&lt;b&gt;Tujuan Pendidikan Jasmani&lt;/b&gt;&lt;/div&gt;Tujuan&amp;nbsp; pendidikan&amp;nbsp; jasmani&amp;nbsp; adalah&amp;nbsp; untuk&amp;nbsp; meningkatkan&amp;nbsp; keterampilan&amp;nbsp; seseorang&amp;nbsp; dalam&amp;nbsp; berolahraga.&amp;nbsp; Ada&amp;nbsp; pula&amp;nbsp; yang berpendapat, tujuannya adalah meningkatkan taraf kesehatan yang&amp;nbsp;&amp;nbsp; baik,&amp;nbsp;&amp;nbsp; serta&amp;nbsp;&amp;nbsp; ada&amp;nbsp;&amp;nbsp; yang&amp;nbsp;&amp;nbsp; mengungkapkan&amp;nbsp;&amp;nbsp; bahwa&amp;nbsp;&amp;nbsp; tujuan&amp;nbsp;&amp;nbsp; pendidikan&amp;nbsp;&amp;nbsp; jasmani&amp;nbsp;&amp;nbsp; adalah&amp;nbsp;&amp;nbsp; untuk&amp;nbsp;&amp;nbsp; meningkatkan&amp;nbsp;&amp;nbsp; kebugaran&amp;nbsp;&amp;nbsp; jasmani. Semua jawaban di atas benar, sebab yang paling penting tujuannya bersifat menyeluruh." style="rounded=1;whiteSpace=wrap;html=1;sketch=0;" vertex="1" parent="jwWe09V19Py0BphiwUt3-1">
+          <mxGeometry x="840" y="-110" width="370" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
