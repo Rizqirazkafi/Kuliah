@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-28T02:01:27.968Z" agent="5.0 (X11)" etag="jvgKAsILL9OFYZJWJ74A" version="13.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-28T02:25:33.588Z" agent="5.0 (X11)" etag="wpChq4RJN0s281NtC8b4" version="13.8.5" type="github">
   <diagram id="HqaYgCoFOxBdFjzKVUNl" name="Page-1">
     <mxGraphModel dx="1941" dy="641" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -93,7 +93,7 @@
           <mxGeometry x="-510" y="700" width="250" height="40" as="geometry" />
         </mxCell>
         <mxCell id="870JM9SC8Y5TCyAheToO-25" value="&lt;font color=&quot;#000000&quot;&gt;Masukkan bilangan desimal :&lt;br&gt;&lt;/font&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fontColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="164" y="700" width="250" height="40" as="geometry" />
+          <mxGeometry y="700" width="250" height="40" as="geometry" />
         </mxCell>
         <mxCell id="870JM9SC8Y5TCyAheToO-26" value="&lt;font color=&quot;#000000&quot;&gt;Masukkan bilangan desimal :&lt;br&gt;&lt;/font&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="428.5" y="700" width="250" height="40" as="geometry" />
@@ -113,7 +113,7 @@
           <mxGeometry x="-358.5" y="680" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="870JM9SC8Y5TCyAheToO-36" value="2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="310" y="680" width="40" height="20" as="geometry" />
+          <mxGeometry x="146" y="680" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="870JM9SC8Y5TCyAheToO-37" value="3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="570" y="680" width="40" height="20" as="geometry" />
