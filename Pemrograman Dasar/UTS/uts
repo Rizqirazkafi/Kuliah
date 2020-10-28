@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-28T03:31:32.405Z" agent="5.0 (X11)" etag="dxUwByiMQXCQoi55-4DP" version="13.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-28T03:32:35.331Z" agent="5.0 (X11)" etag="lD1Vpaje3A_5uzOKNDfM" version="13.8.5" type="github">
   <diagram id="HqaYgCoFOxBdFjzKVUNl" name="Page-1">
-    <mxGraphModel dx="1823" dy="483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2017" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -105,7 +105,7 @@
           <mxGeometry x="428.5" y="700" width="250" height="40" as="geometry" />
         </mxCell>
         <mxCell id="870JM9SC8Y5TCyAheToO-27" value="&lt;font color=&quot;#000000&quot;&gt;Masukkan bilangan desimal :&lt;br&gt;&lt;/font&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fontColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="698.5" y="700" width="250" height="40" as="geometry" />
+          <mxGeometry x="798.81" y="700" width="250" height="40" as="geometry" />
         </mxCell>
         <mxCell id="870JM9SC8Y5TCyAheToO-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="870JM9SC8Y5TCyAheToO-33">
           <mxGeometry relative="1" as="geometry">
@@ -125,7 +125,7 @@
           <mxGeometry x="570" y="680" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="870JM9SC8Y5TCyAheToO-38" value="4" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="840" y="680" width="40" height="20" as="geometry" />
+          <mxGeometry x="870" y="680" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="870JM9SC8Y5TCyAheToO-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" target="870JM9SC8Y5TCyAheToO-40">
           <mxGeometry relative="1" as="geometry">
