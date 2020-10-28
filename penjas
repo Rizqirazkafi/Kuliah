@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-28T13:15:39.618Z" agent="5.0 (X11)" etag="Wyu21q651Q2AVyuaZLPM" version="13.8.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-10-28T13:21:16.432Z" agent="5.0 (X11)" etag="QwkOEYJ3LWZPZ5cJ4QXc" version="13.8.5" type="github" pages="2">
   <diagram id="eHAPRtiEo3rriIsv-kNr" name="bab 1">
     <mxGraphModel dx="2372" dy="908" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -126,6 +126,9 @@
         <mxCell id="thGGcsjp_FtRDFd_Jp-y-10" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="jwWe09V19Py0BphiwUt3-1" source="OaqdFE-LO9jaewdRNfSJ-1" target="thGGcsjp_FtRDFd_Jp-y-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="thGGcsjp_FtRDFd_Jp-y-23" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="jwWe09V19Py0BphiwUt3-1" source="OaqdFE-LO9jaewdRNfSJ-1" target="thGGcsjp_FtRDFd_Jp-y-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OaqdFE-LO9jaewdRNfSJ-1" value="&lt;div&gt;&lt;b&gt;Makna Pendidikan Jasmani&lt;/b&gt;&lt;br&gt;&lt;/div&gt;Pendidikan&amp;nbsp;&amp;nbsp; jasmani&amp;nbsp;&amp;nbsp; pada&amp;nbsp;&amp;nbsp; era&amp;nbsp;&amp;nbsp; saat&amp;nbsp;&amp;nbsp; ini&amp;nbsp;&amp;nbsp; lebih&amp;nbsp;&amp;nbsp; dikenal&amp;nbsp;&amp;nbsp; dengan&amp;nbsp; Pendidikan&amp;nbsp; Jasmani&amp;nbsp; Olahraga&amp;nbsp; dan&amp;nbsp; Kesehatan&amp;nbsp; (PJOK).&amp;nbsp; Menurut Samsudin (2008: 2), pengertian pendidikan jasmani atau PJOK yaitu proses pembelajaran melalui aktivitas jasmani dan&amp;nbsp; direncanakan&amp;nbsp; secara&amp;nbsp; sistematik&amp;nbsp; yang&amp;nbsp; bertujuan&amp;nbsp; untuk meningkatkan individu secara organik, neuromoskuler, perseptual, kognitif, sosial dan emosional." style="rounded=1;whiteSpace=wrap;html=1;sketch=0;" vertex="1" parent="jwWe09V19Py0BphiwUt3-1">
           <mxGeometry x="570" y="80" width="350" height="150" as="geometry" />
         </mxCell>
@@ -166,10 +169,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="thGGcsjp_FtRDFd_Jp-y-11" value="&lt;b&gt;Perbedaan Pendidilkan Jasmani dan Olahraga&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;" vertex="1" parent="jwWe09V19Py0BphiwUt3-1">
-          <mxGeometry x="990" y="120" width="280" height="60" as="geometry" />
+          <mxGeometry x="995" y="125" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="thGGcsjp_FtRDFd_Jp-y-13" value="Pemanduan bakat dalam pendidikan jasmani dipakai untuk mengetahui entry&amp;nbsp; behaviour dalam&amp;nbsp; menyusun&amp;nbsp; program. Dalam olahraga, pemanduan bakat bertujuan memilih atlet berbakat." style="rounded=1;whiteSpace=wrap;html=1;sketch=0;" vertex="1" parent="jwWe09V19Py0BphiwUt3-1">
-          <mxGeometry x="1360" y="107.5" width="250" height="85" as="geometry" />
+          <mxGeometry x="1360" y="112.5" width="250" height="85" as="geometry" />
         </mxCell>
         <mxCell id="thGGcsjp_FtRDFd_Jp-y-14" value="Ada pembakuan peraturan dalam olahraga yang tidak dapat diubah setiap waktu, sedangkan pendidikan jasmani tidak mengenal pembakuan." style="rounded=1;whiteSpace=wrap;html=1;sketch=0;" vertex="1" parent="jwWe09V19Py0BphiwUt3-1">
           <mxGeometry x="1360" y="250" width="280" height="60" as="geometry" />
