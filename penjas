@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-28T13:24:58.386Z" agent="5.0 (X11)" etag="Jmo9Mn5TgaB3AMxZTtEf" version="13.8.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-10-28T13:30:19.005Z" agent="5.0 (X11)" etag="kvYzw651xQL_nvGOnBnY" version="13.8.5" type="github" pages="2">
   <diagram id="eHAPRtiEo3rriIsv-kNr" name="bab 1">
     <mxGraphModel dx="2372" dy="908" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -110,57 +110,63 @@
     </mxGraphModel>
   </diagram>
   <diagram id="3p6jIampZoipjjw0WyBF" name="bab 2">
-    <mxGraphModel dx="773" dy="1554" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1545" dy="908" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="jwWe09V19Py0BphiwUt3-0" />
         <mxCell id="jwWe09V19Py0BphiwUt3-1" parent="jwWe09V19Py0BphiwUt3-0" />
-        <mxCell id="thGGcsjp_FtRDFd_Jp-y-0" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.003;entryY=0.44;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="jwWe09V19Py0BphiwUt3-1" source="OaqdFE-LO9jaewdRNfSJ-0" target="OaqdFE-LO9jaewdRNfSJ-1">
+        <mxCell id="kUhUkj45EQ-x9YR3Bahr-3" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="jwWe09V19Py0BphiwUt3-1" source="OaqdFE-LO9jaewdRNfSJ-0" target="OaqdFE-LO9jaewdRNfSJ-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="thGGcsjp_FtRDFd_Jp-y-1" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="jwWe09V19Py0BphiwUt3-1" source="OaqdFE-LO9jaewdRNfSJ-0" target="OaqdFE-LO9jaewdRNfSJ-2">
+        <mxCell id="kUhUkj45EQ-x9YR3Bahr-4" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="jwWe09V19Py0BphiwUt3-1" source="OaqdFE-LO9jaewdRNfSJ-0" target="OaqdFE-LO9jaewdRNfSJ-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OaqdFE-LO9jaewdRNfSJ-0" value="&lt;b&gt;Filsafah Pendidikan Jasmani&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;sketch=0;" vertex="1" parent="jwWe09V19Py0BphiwUt3-1">
-          <mxGeometry x="380" y="150" width="80" height="80" as="geometry" />
+          <mxGeometry x="390" y="30" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="thGGcsjp_FtRDFd_Jp-y-10" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="jwWe09V19Py0BphiwUt3-1" source="OaqdFE-LO9jaewdRNfSJ-1" target="thGGcsjp_FtRDFd_Jp-y-2">
+        <mxCell id="kUhUkj45EQ-x9YR3Bahr-5" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="jwWe09V19Py0BphiwUt3-1" source="OaqdFE-LO9jaewdRNfSJ-1" target="thGGcsjp_FtRDFd_Jp-y-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="thGGcsjp_FtRDFd_Jp-y-23" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="jwWe09V19Py0BphiwUt3-1" source="OaqdFE-LO9jaewdRNfSJ-1" target="thGGcsjp_FtRDFd_Jp-y-11">
+        <mxCell id="kUhUkj45EQ-x9YR3Bahr-12" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="jwWe09V19Py0BphiwUt3-1" source="OaqdFE-LO9jaewdRNfSJ-1" target="thGGcsjp_FtRDFd_Jp-y-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="thGGcsjp_FtRDFd_Jp-y-25" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="jwWe09V19Py0BphiwUt3-1" source="OaqdFE-LO9jaewdRNfSJ-1" target="thGGcsjp_FtRDFd_Jp-y-24">
+        <mxCell id="kUhUkj45EQ-x9YR3Bahr-14" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="jwWe09V19Py0BphiwUt3-1" source="OaqdFE-LO9jaewdRNfSJ-1" target="kUhUkj45EQ-x9YR3Bahr-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kUhUkj45EQ-x9YR3Bahr-1" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="jwWe09V19Py0BphiwUt3-1" source="OaqdFE-LO9jaewdRNfSJ-1" target="kUhUkj45EQ-x9YR3Bahr-0">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="kUhUkj45EQ-x9YR3Bahr-15" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="jwWe09V19Py0BphiwUt3-1" source="OaqdFE-LO9jaewdRNfSJ-1" target="thGGcsjp_FtRDFd_Jp-y-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="283" />
+              <mxPoint x="380" y="540" />
+              <mxPoint x="180" y="540" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="OaqdFE-LO9jaewdRNfSJ-1" value="&lt;div&gt;&lt;b&gt;Makna Pendidikan Jasmani&lt;/b&gt;&lt;br&gt;&lt;/div&gt;Pendidikan&amp;nbsp;&amp;nbsp; jasmani&amp;nbsp;&amp;nbsp; pada&amp;nbsp;&amp;nbsp; era&amp;nbsp;&amp;nbsp; saat&amp;nbsp;&amp;nbsp; ini&amp;nbsp;&amp;nbsp; lebih&amp;nbsp;&amp;nbsp; dikenal&amp;nbsp;&amp;nbsp; dengan&amp;nbsp; Pendidikan&amp;nbsp; Jasmani&amp;nbsp; Olahraga&amp;nbsp; dan&amp;nbsp; Kesehatan&amp;nbsp; (PJOK).&amp;nbsp; Menurut Samsudin (2008: 2), pengertian pendidikan jasmani atau PJOK yaitu proses pembelajaran melalui aktivitas jasmani dan&amp;nbsp; direncanakan&amp;nbsp; secara&amp;nbsp; sistematik&amp;nbsp; yang&amp;nbsp; bertujuan&amp;nbsp; untuk meningkatkan individu secara organik, neuromoskuler, perseptual, kognitif, sosial dan emosional." style="rounded=1;whiteSpace=wrap;html=1;sketch=0;" vertex="1" parent="jwWe09V19Py0BphiwUt3-1">
-          <mxGeometry x="570" y="80" width="350" height="150" as="geometry" />
+          <mxGeometry x="10" y="170" width="350" height="150" as="geometry" />
         </mxCell>
         <mxCell id="OaqdFE-LO9jaewdRNfSJ-2" value="&lt;div&gt;&lt;b&gt;Arti Sehat&lt;/b&gt;&lt;/div&gt;&lt;div&gt;keadaan sehat, baik secara fisik, mental, spritual maupun sosial yang memungkinkan setiap orang untuk hidup produktif secara sosial dan ekonomis&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;" vertex="1" parent="jwWe09V19Py0BphiwUt3-1">
-          <mxGeometry x="10" y="80" width="290" height="100" as="geometry" />
+          <mxGeometry x="10" y="20" width="290" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="thGGcsjp_FtRDFd_Jp-y-7" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="jwWe09V19Py0BphiwUt3-1" source="thGGcsjp_FtRDFd_Jp-y-2" target="thGGcsjp_FtRDFd_Jp-y-4">
+        <mxCell id="kUhUkj45EQ-x9YR3Bahr-9" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="jwWe09V19Py0BphiwUt3-1" source="thGGcsjp_FtRDFd_Jp-y-2" target="thGGcsjp_FtRDFd_Jp-y-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="thGGcsjp_FtRDFd_Jp-y-8" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="jwWe09V19Py0BphiwUt3-1" source="thGGcsjp_FtRDFd_Jp-y-2" target="thGGcsjp_FtRDFd_Jp-y-5">
+        <mxCell id="kUhUkj45EQ-x9YR3Bahr-10" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="jwWe09V19Py0BphiwUt3-1" source="thGGcsjp_FtRDFd_Jp-y-2" target="thGGcsjp_FtRDFd_Jp-y-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="thGGcsjp_FtRDFd_Jp-y-9" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="jwWe09V19Py0BphiwUt3-1" source="thGGcsjp_FtRDFd_Jp-y-2" target="thGGcsjp_FtRDFd_Jp-y-6">
+        <mxCell id="kUhUkj45EQ-x9YR3Bahr-11" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="jwWe09V19Py0BphiwUt3-1" source="thGGcsjp_FtRDFd_Jp-y-2" target="thGGcsjp_FtRDFd_Jp-y-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="thGGcsjp_FtRDFd_Jp-y-2" value="&lt;b&gt;Kesamaan Pendidikan Jasmani dan Olahraga&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;" vertex="1" parent="jwWe09V19Py0BphiwUt3-1">
-          <mxGeometry x="600" y="270" width="290" height="60" as="geometry" />
+          <mxGeometry x="390" y="215" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="thGGcsjp_FtRDFd_Jp-y-4" value="&lt;div&gt;&lt;b&gt;Tujuan&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Pendidikan jasmani dan olahraga ikut membantu meningkatkan kualitas manusia Indonesia seutuhnya.&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;" vertex="1" parent="jwWe09V19Py0BphiwUt3-1">
-          <mxGeometry x="490" y="360" width="220" height="80" as="geometry" />
+          <mxGeometry x="490" y="30" width="210" height="80" as="geometry" />
         </mxCell>
         <mxCell id="thGGcsjp_FtRDFd_Jp-y-5" value="&lt;div&gt;&lt;b&gt;Penekanan Tujuan&lt;/b&gt;&lt;/div&gt;Pendidikan jasmani cenderung menekankan pada pembinaan perilaku hidup sehat, dengan menganut prinsip “pendidikan melalui jasmani”.Olahraga cenderung menekankan pada peningkatan prestasi olahraga, dengan catatan tidak terperangkap ke dalam prinsip “pendidikan untuk jasmani”." style="rounded=1;whiteSpace=wrap;html=1;sketch=0;" vertex="1" parent="jwWe09V19Py0BphiwUt3-1">
-          <mxGeometry x="565" y="470" width="360" height="120" as="geometry" />
+          <mxGeometry x="450" y="290" width="360" height="120" as="geometry" />
         </mxCell>
         <mxCell id="thGGcsjp_FtRDFd_Jp-y-6" value="&lt;div&gt;&lt;b&gt;Medium yang Digunakan&lt;/b&gt;&lt;/div&gt;Pendidikan jasmani dan olahraga menggunakan medium jasmani atau psikomotor." style="rounded=1;whiteSpace=wrap;html=1;sketch=0;" vertex="1" parent="jwWe09V19Py0BphiwUt3-1">
-          <mxGeometry x="870" y="370" width="190" height="80" as="geometry" />
+          <mxGeometry x="640" y="120" width="190" height="80" as="geometry" />
         </mxCell>
         <mxCell id="thGGcsjp_FtRDFd_Jp-y-18" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="jwWe09V19Py0BphiwUt3-1" source="thGGcsjp_FtRDFd_Jp-y-11" target="thGGcsjp_FtRDFd_Jp-y-13">
           <mxGeometry relative="1" as="geometry" />
@@ -175,25 +181,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="thGGcsjp_FtRDFd_Jp-y-11" value="&lt;b&gt;Perbedaan Pendidilkan Jasmani dan Olahraga&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;" vertex="1" parent="jwWe09V19Py0BphiwUt3-1">
-          <mxGeometry x="995" y="125" width="280" height="60" as="geometry" />
+          <mxGeometry x="40" y="570" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="thGGcsjp_FtRDFd_Jp-y-13" value="Pemanduan bakat dalam pendidikan jasmani dipakai untuk mengetahui entry&amp;nbsp; behaviour dalam&amp;nbsp; menyusun&amp;nbsp; program. Dalam olahraga, pemanduan bakat bertujuan memilih atlet berbakat." style="rounded=1;whiteSpace=wrap;html=1;sketch=0;" vertex="1" parent="jwWe09V19Py0BphiwUt3-1">
-          <mxGeometry x="1360" y="112.5" width="250" height="85" as="geometry" />
+          <mxGeometry x="410" y="570" width="250" height="85" as="geometry" />
         </mxCell>
         <mxCell id="thGGcsjp_FtRDFd_Jp-y-14" value="Ada pembakuan peraturan dalam olahraga yang tidak dapat diubah setiap waktu, sedangkan pendidikan jasmani tidak mengenal pembakuan." style="rounded=1;whiteSpace=wrap;html=1;sketch=0;" vertex="1" parent="jwWe09V19Py0BphiwUt3-1">
-          <mxGeometry x="1360" y="250" width="280" height="60" as="geometry" />
+          <mxGeometry x="410" y="722.5" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="thGGcsjp_FtRDFd_Jp-y-15" value="engan&amp;nbsp; adanya&amp;nbsp; pembakuan&amp;nbsp; peraturan,&amp;nbsp; maka&amp;nbsp; terdapat pula&amp;nbsp; pembatasan&amp;nbsp; bentuk&amp;nbsp; gerak&amp;nbsp; yakni&amp;nbsp; bentuk-bentuk&amp;nbsp; gerak&amp;nbsp; fungsional&amp;nbsp; cabang&amp;nbsp; olahraga&amp;nbsp; yang&amp;nbsp; bersangkutan.&amp;nbsp; Dalam pendidikan&amp;nbsp; jasmani&amp;nbsp; tidak&amp;nbsp; terdapat&amp;nbsp; pembatasan&amp;nbsp; gerak semacam&amp;nbsp; ini,&amp;nbsp; bahkan&amp;nbsp; bentuk&amp;nbsp; gerak&amp;nbsp; pendidikan&amp;nbsp; jasmani seluas bentuk gerak kehidupan sehari-hari." style="rounded=1;whiteSpace=wrap;html=1;sketch=0;" vertex="1" parent="jwWe09V19Py0BphiwUt3-1">
-          <mxGeometry x="1360" y="345" width="350" height="110" as="geometry" />
+          <mxGeometry x="410" y="817.5" width="350" height="110" as="geometry" />
         </mxCell>
         <mxCell id="thGGcsjp_FtRDFd_Jp-y-16" value="Olahraga selalu berbentuk pertandingan dan latihan-latihan yang dilakukan adalah berupa persiapan untuk pertandingan yang harus dimenangkan. Pendidikan jasmani tidak selalu berbentuk pertandingan meskipun motif bertanding ada kalanya dapat dimanfaatkan." style="rounded=1;whiteSpace=wrap;html=1;sketch=0;" vertex="1" parent="jwWe09V19Py0BphiwUt3-1">
-          <mxGeometry x="1360" y="500" width="415" height="80" as="geometry" />
+          <mxGeometry x="410" y="962.5" width="415" height="80" as="geometry" />
         </mxCell>
         <mxCell id="thGGcsjp_FtRDFd_Jp-y-24" value="&lt;div&gt;&lt;b&gt;Tujuan Pendidikan Jasmani&lt;/b&gt;&lt;/div&gt;Tujuan&amp;nbsp; pendidikan&amp;nbsp; jasmani&amp;nbsp; adalah&amp;nbsp; untuk&amp;nbsp; meningkatkan&amp;nbsp; keterampilan&amp;nbsp; seseorang&amp;nbsp; dalam&amp;nbsp; berolahraga.&amp;nbsp; Ada&amp;nbsp; pula&amp;nbsp; yang berpendapat, tujuannya adalah meningkatkan taraf kesehatan yang&amp;nbsp;&amp;nbsp; baik,&amp;nbsp;&amp;nbsp; serta&amp;nbsp;&amp;nbsp; ada&amp;nbsp;&amp;nbsp; yang&amp;nbsp;&amp;nbsp; mengungkapkan&amp;nbsp;&amp;nbsp; bahwa&amp;nbsp;&amp;nbsp; tujuan&amp;nbsp;&amp;nbsp; pendidikan&amp;nbsp;&amp;nbsp; jasmani&amp;nbsp;&amp;nbsp; adalah&amp;nbsp;&amp;nbsp; untuk&amp;nbsp;&amp;nbsp; meningkatkan&amp;nbsp;&amp;nbsp; kebugaran&amp;nbsp;&amp;nbsp; jasmani. Semua jawaban di atas benar, sebab yang paling penting tujuannya bersifat menyeluruh." style="rounded=1;whiteSpace=wrap;html=1;sketch=0;" vertex="1" parent="jwWe09V19Py0BphiwUt3-1">
-          <mxGeometry x="840" y="-110" width="370" height="150" as="geometry" />
+          <mxGeometry y="360" width="370" height="150" as="geometry" />
         </mxCell>
         <mxCell id="kUhUkj45EQ-x9YR3Bahr-0" value="&lt;div&gt;&lt;b&gt;Hubungan Pendidikan Jasmani dengan Bermain dan Olahraga&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Bermain&amp;nbsp; pada&amp;nbsp; intinya adalah&amp;nbsp; aktivitas&amp;nbsp; yang&amp;nbsp; digunakan sebagai hiburan.&lt;/div&gt;Olahraga di pihak lain&amp;nbsp; adalah&amp;nbsp; suatu&amp;nbsp; bentuk&amp;nbsp; bermain&amp;nbsp; yang&amp;nbsp; terorganisir dan bersifat kompetitif." style="rounded=1;whiteSpace=wrap;html=1;sketch=0;" vertex="1" parent="jwWe09V19Py0BphiwUt3-1">
-          <mxGeometry x="615" y="-360" width="260" height="170" as="geometry" />
+          <mxGeometry x="440" y="430" width="260" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
