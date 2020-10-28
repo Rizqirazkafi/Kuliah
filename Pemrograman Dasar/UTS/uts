@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-28T02:29:34.571Z" agent="5.0 (X11)" etag="y7WWubxMFbSXz10jp0RM" version="13.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-28T02:31:47.131Z" agent="5.0 (X11)" etag="Bxby0IjhlKz-m471Vlij" version="13.8.5" type="github">
   <diagram id="HqaYgCoFOxBdFjzKVUNl" name="Page-1">
-    <mxGraphModel dx="1941" dy="641" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1777" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -179,14 +179,20 @@
         <mxCell id="870JM9SC8Y5TCyAheToO-62" value="End" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-243.5" y="1090" width="100" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="870JM9SC8Y5TCyAheToO-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="870JM9SC8Y5TCyAheToO-65" target="870JM9SC8Y5TCyAheToO-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="870JM9SC8Y5TCyAheToO-65" value="int oct_num = 0, awal = 1;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="40" y="760" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="870JM9SC8Y5TCyAheToO-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="870JM9SC8Y5TCyAheToO-67" target="870JM9SC8Y5TCyAheToO-68">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="870JM9SC8Y5TCyAheToO-67" value="while(des_num != 0)" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="42.5" y="820" width="165" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="870JM9SC8Y5TCyAheToO-68" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="27.5" y="880" width="195" height="40" as="geometry" />
+        <mxCell id="870JM9SC8Y5TCyAheToO-68" value="&amp;nbsp;oct_num += (des_num % 8) * awal; des_num /= 8;&lt;br&gt;awal *= 10;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="18.75" y="880" width="212.5" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
