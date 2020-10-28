@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-28T02:25:33.588Z" agent="5.0 (X11)" etag="wpChq4RJN0s281NtC8b4" version="13.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-28T02:29:34.571Z" agent="5.0 (X11)" etag="y7WWubxMFbSXz10jp0RM" version="13.8.5" type="github">
   <diagram id="HqaYgCoFOxBdFjzKVUNl" name="Page-1">
     <mxGraphModel dx="1941" dy="641" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -92,6 +92,9 @@
         <mxCell id="870JM9SC8Y5TCyAheToO-24" value="&lt;font color=&quot;#000000&quot;&gt;Masukkan bilangan desimal :&lt;br&gt;&lt;/font&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="-510" y="700" width="250" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="870JM9SC8Y5TCyAheToO-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="870JM9SC8Y5TCyAheToO-25" target="870JM9SC8Y5TCyAheToO-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="870JM9SC8Y5TCyAheToO-25" value="&lt;font color=&quot;#000000&quot;&gt;Masukkan bilangan desimal :&lt;br&gt;&lt;/font&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry y="700" width="250" height="40" as="geometry" />
         </mxCell>
@@ -134,20 +137,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="870JM9SC8Y5TCyAheToO-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="870JM9SC8Y5TCyAheToO-40" target="870JM9SC8Y5TCyAheToO-44">
+        <mxCell id="870JM9SC8Y5TCyAheToO-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="870JM9SC8Y5TCyAheToO-40" target="870JM9SC8Y5TCyAheToO-52">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="870JM9SC8Y5TCyAheToO-40" value="bilangan desimal /= 2;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="870JM9SC8Y5TCyAheToO-40" value="reverse(bits.begin(), bits.end());" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="-453.25" y="900" width="136.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="870JM9SC8Y5TCyAheToO-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="870JM9SC8Y5TCyAheToO-44" target="870JM9SC8Y5TCyAheToO-52">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="870JM9SC8Y5TCyAheToO-44" value="Balik urutan hasil dari belakang ke depan" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="-457.5" y="960" width="145" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="870JM9SC8Y5TCyAheToO-39" value="jadikan string (bilangan desimal % 2);" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="-393.5" y="840" width="224.75" height="40" as="geometry" />
+        <mxCell id="870JM9SC8Y5TCyAheToO-39" value="&lt;div align=&quot;center&quot;&gt;bits.append(to_string(des_num % 2)); des_num /= 2;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-484.75" y="840" width="224.75" height="40" as="geometry" />
         </mxCell>
         <mxCell id="870JM9SC8Y5TCyAheToO-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="870JM9SC8Y5TCyAheToO-50" target="870JM9SC8Y5TCyAheToO-5">
           <mxGeometry relative="1" as="geometry" />
@@ -159,7 +156,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="870JM9SC8Y5TCyAheToO-52" value="Hasil bilangan biner" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="-470" y="1020" width="170" height="60" as="geometry" />
+          <mxGeometry x="-470" y="970" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="870JM9SC8Y5TCyAheToO-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="870JM9SC8Y5TCyAheToO-56" target="870JM9SC8Y5TCyAheToO-58">
           <mxGeometry relative="1" as="geometry" />
@@ -168,19 +165,28 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="870JM9SC8Y5TCyAheToO-56" value="&lt;div&gt;Lakukan konversi lagi ?&lt;br&gt;&lt;/div&gt;(y/n)" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="-473.81" y="1120" width="177.62" height="100" as="geometry" />
+          <mxGeometry x="-473.81" y="1070" width="177.62" height="100" as="geometry" />
         </mxCell>
         <mxCell id="870JM9SC8Y5TCyAheToO-58" value="Restart" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="-425" y="1260" width="80" height="80" as="geometry" />
+          <mxGeometry x="-425" y="1210" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="870JM9SC8Y5TCyAheToO-60" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#00FF00;" vertex="1" parent="1">
-          <mxGeometry x="-373.5" y="1230" width="40" height="20" as="geometry" />
+          <mxGeometry x="-373.5" y="1180" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="870JM9SC8Y5TCyAheToO-61" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="-284.5" y="1150" width="40" height="20" as="geometry" />
+          <mxGeometry x="-284.5" y="1100" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="870JM9SC8Y5TCyAheToO-62" value="End" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-243.5" y="1140" width="100" height="60" as="geometry" />
+          <mxGeometry x="-243.5" y="1090" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="870JM9SC8Y5TCyAheToO-65" value="int oct_num = 0, awal = 1;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="40" y="760" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="870JM9SC8Y5TCyAheToO-67" value="while(des_num != 0)" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="42.5" y="820" width="165" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="870JM9SC8Y5TCyAheToO-68" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="27.5" y="880" width="195" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
