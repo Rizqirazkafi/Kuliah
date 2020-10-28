@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-28T01:34:52.006Z" agent="5.0 (X11)" etag="NXUnnuQ8AXNWv7QAUJMj" version="13.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-28T01:38:16.037Z" agent="5.0 (X11)" etag="nwLaJ00YQEwg0Gfl0JkZ" version="13.8.5" type="github">
   <diagram id="HqaYgCoFOxBdFjzKVUNl" name="Page-1">
-    <mxGraphModel dx="927" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1777" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -71,8 +71,20 @@
         <mxCell id="870JM9SC8Y5TCyAheToO-19" value="&lt;font color=&quot;#000000&quot;&gt;End&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="75" y="300" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="870JM9SC8Y5TCyAheToO-21" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="870JM9SC8Y5TCyAheToO-21" value="&lt;font color=&quot;#000000&quot;&gt;1/2/3/4&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="373.5" y="550" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="870JM9SC8Y5TCyAheToO-24" value="&lt;font color=&quot;#000000&quot;&gt;Masukkan bilangan desimal :&lt;br&gt;&lt;/font&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="-101.5" y="700" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="870JM9SC8Y5TCyAheToO-25" value="&lt;font color=&quot;#000000&quot;&gt;Masukkan bilangan desimal :&lt;br&gt;&lt;/font&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="164" y="700" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="870JM9SC8Y5TCyAheToO-26" value="&lt;font color=&quot;#000000&quot;&gt;Masukkan bilangan desimal :&lt;br&gt;&lt;/font&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="428.5" y="700" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="870JM9SC8Y5TCyAheToO-27" value="&lt;font color=&quot;#000000&quot;&gt;Masukkan bilangan desimal :&lt;br&gt;&lt;/font&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="698.5" y="700" width="250" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
