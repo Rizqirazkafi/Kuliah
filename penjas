@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-29T09:50:19.630Z" agent="5.0 (X11)" etag="GLpXfKvdcQThGYoT2Ptg" version="13.8.5" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2020-10-29T10:17:58.808Z" agent="5.0 (X11)" etag="EPL5xA0GbBPRCzD9to5m" version="13.8.5" type="github" pages="5">
   <diagram id="eHAPRtiEo3rriIsv-kNr" name="bab 1">
     <mxGraphModel dx="927" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -321,6 +321,14 @@
         <mxCell id="ekMyGWBLCoEYwa4gP-dc-22" value="&lt;div&gt;Meningkatkan kepadatan tulang.&lt;/div&gt;&lt;div&gt;Meningkatkan kemampuan dan keterampilan tubuh.&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ekMyGWBLCoEYwa4gP-dc-1">
           <mxGeometry x="720" y="335" width="120" height="100" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="ifR_dM1lBXJ88wu-E5-1" name="bab 5">
+    <mxGraphModel dx="927" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="v7R7bcSKcjJxji7IVhy7-0" />
+        <mxCell id="v7R7bcSKcjJxji7IVhy7-1" parent="v7R7bcSKcjJxji7IVhy7-0" />
       </root>
     </mxGraphModel>
   </diagram>
