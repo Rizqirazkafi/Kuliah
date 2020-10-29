@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-29T11:44:05.066Z" agent="5.0 (X11)" etag="9guW5ayL-yDDcIYTq9gj" version="13.8.6" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2020-10-29T11:44:41.031Z" agent="5.0 (X11)" etag="4bLDBgJoWYuhOjdYDbd0" version="13.8.6" type="github" pages="5">
   <diagram id="eHAPRtiEo3rriIsv-kNr" name="bab 1">
     <mxGraphModel dx="927" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -356,7 +356,7 @@
         <mxCell id="56_YAav4UlCYLEuO0-bi-6" value="Direkomendasikan&amp;nbsp; latihan&amp;nbsp; fisik dilakukan&amp;nbsp; dengan&amp;nbsp; urutan&amp;nbsp; pemanasan&amp;nbsp; dan&amp;nbsp; peregangan&amp;nbsp; selama&amp;nbsp; 10-15 menit, selanjutnya atihan inti selama 20-60 menit, diakhiri dengan pendinginan dan peregangan selama 5-10 menit. Artinya, pelaksanaan laithan fisik harus dilaksanakan dengan intensitas ringan di sesi pemanasan dan peregangan awal, intensitas semakin tinggi&amp;nbsp; pada&amp;nbsp; sesi&amp;nbsp; inti,&amp;nbsp; dan&amp;nbsp; intensitas&amp;nbsp; turun&amp;nbsp; kembali&amp;nbsp; pada&amp;nbsp; sesi pendinginan dan peregangan akhir. " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="v7R7bcSKcjJxji7IVhy7-1">
           <mxGeometry x="520" y="140" width="230" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="ViJpCRxoY26-MP96WHWX-2" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="v7R7bcSKcjJxji7IVhy7-1" source="ViJpCRxoY26-MP96WHWX-0" target="ViJpCRxoY26-MP96WHWX-1">
+        <mxCell id="ViJpCRxoY26-MP96WHWX-13" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="v7R7bcSKcjJxji7IVhy7-1" source="ViJpCRxoY26-MP96WHWX-0" target="ViJpCRxoY26-MP96WHWX-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ViJpCRxoY26-MP96WHWX-0" value="&lt;b&gt;Latihan Fisik Menurut Hasil Penelitian&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="v7R7bcSKcjJxji7IVhy7-1">
@@ -378,22 +378,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ViJpCRxoY26-MP96WHWX-1" value="Latihan Fisik Menurut Hasil PenelitianFunctional Training&amp;nbsp; adalah&amp;nbsp; latihan&amp;nbsp; fisik&amp;nbsp; yang&amp;nbsp; dilakukan dengan&amp;nbsp; menggunakan&amp;nbsp; berat&amp;nbsp; badan&amp;nbsp; sendiri&amp;nbsp; atau&amp;nbsp; alat&amp;nbsp; sederhana&amp;nbsp; lainnya untuk membantu melaksanakan latihan. Gerakannya yang digunakan juga merupakan adaptasi dari kegiatan sehari-hari seperti naik tangga, mengangkat barang, berjalan dan kegiatan lainnya. " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="v7R7bcSKcjJxji7IVhy7-1">
-          <mxGeometry x="575" y="400" width="235" height="180" as="geometry" />
+          <mxGeometry x="365" y="410" width="235" height="180" as="geometry" />
         </mxCell>
         <mxCell id="ViJpCRxoY26-MP96WHWX-3" value="Latihan kekuatan atau Strength training" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="v7R7bcSKcjJxji7IVhy7-1">
-          <mxGeometry x="457.5" y="600" width="160" height="60" as="geometry" />
+          <mxGeometry x="260" y="620" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ViJpCRxoY26-MP96WHWX-5" value="Latihan Daya Tahan atau Endurance Training" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="v7R7bcSKcjJxji7IVhy7-1">
-          <mxGeometry x="462.5" y="680" width="150" height="60" as="geometry" />
+          <mxGeometry x="270" y="700" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ViJpCRxoY26-MP96WHWX-7" value="Latihan Kelenturan atau Flexibility Training" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="v7R7bcSKcjJxji7IVhy7-1">
-          <mxGeometry x="450" y="770" width="175" height="60" as="geometry" />
+          <mxGeometry x="245" y="780" width="175" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ViJpCRxoY26-MP96WHWX-9" value="Latihan Keseimbangan atau Balance Training" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="v7R7bcSKcjJxji7IVhy7-1">
-          <mxGeometry x="710" y="600" width="120" height="60" as="geometry" />
+          <mxGeometry x="520" y="620" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ViJpCRxoY26-MP96WHWX-11" value="Latihan kecepatan atau Speed Training" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="v7R7bcSKcjJxji7IVhy7-1">
-          <mxGeometry x="710" y="670" width="120" height="60" as="geometry" />
+          <mxGeometry x="520" y="690" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
