@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-29T11:27:16.937Z" agent="5.0 (X11)" etag="TZVWiVilUSp8UdeOdkKB" version="13.8.6" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2020-10-29T11:44:05.066Z" agent="5.0 (X11)" etag="9guW5ayL-yDDcIYTq9gj" version="13.8.6" type="github" pages="5">
   <diagram id="eHAPRtiEo3rriIsv-kNr" name="bab 1">
     <mxGraphModel dx="927" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -95,7 +95,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="3p6jIampZoipjjw0WyBF" name="bab 2">
-    <mxGraphModel dx="927" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2318" dy="1363" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="jwWe09V19Py0BphiwUt3-0" />
         <mxCell id="jwWe09V19Py0BphiwUt3-1" parent="jwWe09V19Py0BphiwUt3-0" />
@@ -190,53 +190,53 @@
     </mxGraphModel>
   </diagram>
   <diagram id="cLxMR0wR7LfyQlk-5Hu8" name="bab 3">
-    <mxGraphModel dx="1091" dy="641" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="927" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="m94oMQv2_2Rmss_DW8_B-0" />
         <mxCell id="m94oMQv2_2Rmss_DW8_B-1" parent="m94oMQv2_2Rmss_DW8_B-0" />
-        <mxCell id="m94oMQv2_2Rmss_DW8_B-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;curved=1;" edge="1" parent="m94oMQv2_2Rmss_DW8_B-1" source="m94oMQv2_2Rmss_DW8_B-2" target="m94oMQv2_2Rmss_DW8_B-3">
+        <mxCell id="m94oMQv2_2Rmss_DW8_B-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;curved=1;" parent="m94oMQv2_2Rmss_DW8_B-1" source="m94oMQv2_2Rmss_DW8_B-2" target="m94oMQv2_2Rmss_DW8_B-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="m94oMQv2_2Rmss_DW8_B-8" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="m94oMQv2_2Rmss_DW8_B-1" source="m94oMQv2_2Rmss_DW8_B-2" target="m94oMQv2_2Rmss_DW8_B-7">
+        <mxCell id="m94oMQv2_2Rmss_DW8_B-8" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="m94oMQv2_2Rmss_DW8_B-1" source="m94oMQv2_2Rmss_DW8_B-2" target="m94oMQv2_2Rmss_DW8_B-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="m94oMQv2_2Rmss_DW8_B-15" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="m94oMQv2_2Rmss_DW8_B-1" source="m94oMQv2_2Rmss_DW8_B-2" target="m94oMQv2_2Rmss_DW8_B-14">
+        <mxCell id="m94oMQv2_2Rmss_DW8_B-15" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="m94oMQv2_2Rmss_DW8_B-1" source="m94oMQv2_2Rmss_DW8_B-2" target="m94oMQv2_2Rmss_DW8_B-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="m94oMQv2_2Rmss_DW8_B-2" value="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;PENGUKURAN KEBUGARAN JASMANI&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="m94oMQv2_2Rmss_DW8_B-1">
+        <mxCell id="m94oMQv2_2Rmss_DW8_B-2" value="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;PENGUKURAN KEBUGARAN JASMANI&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="m94oMQv2_2Rmss_DW8_B-1" vertex="1">
           <mxGeometry x="340" width="130" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="m94oMQv2_2Rmss_DW8_B-6" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="m94oMQv2_2Rmss_DW8_B-1" source="m94oMQv2_2Rmss_DW8_B-3" target="m94oMQv2_2Rmss_DW8_B-5">
+        <mxCell id="m94oMQv2_2Rmss_DW8_B-6" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="m94oMQv2_2Rmss_DW8_B-1" source="m94oMQv2_2Rmss_DW8_B-3" target="m94oMQv2_2Rmss_DW8_B-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="m94oMQv2_2Rmss_DW8_B-3" value="&lt;b&gt;Pengertian Kebugaran Jasmani&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="m94oMQv2_2Rmss_DW8_B-1">
+        <mxCell id="m94oMQv2_2Rmss_DW8_B-3" value="&lt;b&gt;Pengertian Kebugaran Jasmani&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="m94oMQv2_2Rmss_DW8_B-1" vertex="1">
           <mxGeometry x="520" y="32.5" width="160" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="m94oMQv2_2Rmss_DW8_B-5" value="Kebugaran jasmani merupakan hal yang sudah populer di kalangan masyarakat dan merupakan unsur penting dalam kehidupan sehari-hari bagi manusia, dimana setiap hari manusia banyak melakukan berbagai aktifitas, baik aktifitas yang dilakukan bersifat pokok (pekerjaan) maupun aktifitas rileks (mengisi waktu luang)." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="m94oMQv2_2Rmss_DW8_B-1">
+        <mxCell id="m94oMQv2_2Rmss_DW8_B-5" value="Kebugaran jasmani merupakan hal yang sudah populer di kalangan masyarakat dan merupakan unsur penting dalam kehidupan sehari-hari bagi manusia, dimana setiap hari manusia banyak melakukan berbagai aktifitas, baik aktifitas yang dilakukan bersifat pokok (pekerjaan) maupun aktifitas rileks (mengisi waktu luang)." style="rounded=1;whiteSpace=wrap;html=1;" parent="m94oMQv2_2Rmss_DW8_B-1" vertex="1">
           <mxGeometry x="530" y="130" width="290" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="m94oMQv2_2Rmss_DW8_B-12" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="m94oMQv2_2Rmss_DW8_B-1" source="m94oMQv2_2Rmss_DW8_B-7" target="m94oMQv2_2Rmss_DW8_B-9">
+        <mxCell id="m94oMQv2_2Rmss_DW8_B-12" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="m94oMQv2_2Rmss_DW8_B-1" source="m94oMQv2_2Rmss_DW8_B-7" target="m94oMQv2_2Rmss_DW8_B-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="m94oMQv2_2Rmss_DW8_B-13" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="m94oMQv2_2Rmss_DW8_B-1" source="m94oMQv2_2Rmss_DW8_B-7" target="m94oMQv2_2Rmss_DW8_B-11">
+        <mxCell id="m94oMQv2_2Rmss_DW8_B-13" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="m94oMQv2_2Rmss_DW8_B-1" source="m94oMQv2_2Rmss_DW8_B-7" target="m94oMQv2_2Rmss_DW8_B-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="m94oMQv2_2Rmss_DW8_B-7" value="&lt;b&gt;&amp;nbsp;Pengukuran Kebugaran Jasmani&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="m94oMQv2_2Rmss_DW8_B-1">
+        <mxCell id="m94oMQv2_2Rmss_DW8_B-7" value="&lt;b&gt;&amp;nbsp;Pengukuran Kebugaran Jasmani&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="m94oMQv2_2Rmss_DW8_B-1" vertex="1">
           <mxGeometry x="130" y="35" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="m94oMQv2_2Rmss_DW8_B-9" value="&lt;div&gt;&lt;b&gt;Aktifitas Fisik&lt;/b&gt;&lt;/div&gt;Aktivitas fisik didefinisikan sebagai setiap gerakan tubuh yang&amp;nbsp; dihasilkan&amp;nbsp; oleh&amp;nbsp; otot&amp;nbsp; rangka&amp;nbsp; yang&amp;nbsp; menghasilkan pengeluaran energi. Pengeluaran energi dapat diukur dalam kilo kalori." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="m94oMQv2_2Rmss_DW8_B-1">
+        <mxCell id="m94oMQv2_2Rmss_DW8_B-9" value="&lt;div&gt;&lt;b&gt;Aktifitas Fisik&lt;/b&gt;&lt;/div&gt;Aktivitas fisik didefinisikan sebagai setiap gerakan tubuh yang&amp;nbsp; dihasilkan&amp;nbsp; oleh&amp;nbsp; otot&amp;nbsp; rangka&amp;nbsp; yang&amp;nbsp; menghasilkan pengeluaran energi. Pengeluaran energi dapat diukur dalam kilo kalori." style="rounded=1;whiteSpace=wrap;html=1;" parent="m94oMQv2_2Rmss_DW8_B-1" vertex="1">
           <mxGeometry x="20" y="130" width="180" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="m94oMQv2_2Rmss_DW8_B-11" value="&lt;div&gt;&lt;b&gt;Kebugaran Fisik&lt;/b&gt;&lt;/div&gt;Kebugaran&amp;nbsp; fisik&amp;nbsp; adalah&amp;nbsp; seperangkat&amp;nbsp; atribut&amp;nbsp; yang berhubungan dengan kesehatan atau keterampilan. Sejauh mana orang memiliki atribut ini dapat diukur dengan tes-tes khusus. " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="m94oMQv2_2Rmss_DW8_B-1">
+        <mxCell id="m94oMQv2_2Rmss_DW8_B-11" value="&lt;div&gt;&lt;b&gt;Kebugaran Fisik&lt;/b&gt;&lt;/div&gt;Kebugaran&amp;nbsp; fisik&amp;nbsp; adalah&amp;nbsp; seperangkat&amp;nbsp; atribut&amp;nbsp; yang berhubungan dengan kesehatan atau keterampilan. Sejauh mana orang memiliki atribut ini dapat diukur dengan tes-tes khusus. " style="rounded=1;whiteSpace=wrap;html=1;" parent="m94oMQv2_2Rmss_DW8_B-1" vertex="1">
           <mxGeometry x="200" y="130" width="170" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="m94oMQv2_2Rmss_DW8_B-17" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="m94oMQv2_2Rmss_DW8_B-1" source="m94oMQv2_2Rmss_DW8_B-14" target="m94oMQv2_2Rmss_DW8_B-16">
+        <mxCell id="m94oMQv2_2Rmss_DW8_B-17" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="m94oMQv2_2Rmss_DW8_B-1" source="m94oMQv2_2Rmss_DW8_B-14" target="m94oMQv2_2Rmss_DW8_B-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="m94oMQv2_2Rmss_DW8_B-14" value="&lt;b&gt;Macam Macam Tes Kebugaran Jasmani&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="m94oMQv2_2Rmss_DW8_B-1">
+        <mxCell id="m94oMQv2_2Rmss_DW8_B-14" value="&lt;b&gt;Macam Macam Tes Kebugaran Jasmani&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="m94oMQv2_2Rmss_DW8_B-1" vertex="1">
           <mxGeometry x="390" y="170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="m94oMQv2_2Rmss_DW8_B-16" value="&lt;b&gt;Tes Kesegaran Jasmani Indonesia (TKJ)&lt;/b&gt;&lt;br&gt;&lt;div&gt;Sprint, pull-up, sit-up, lari jauh&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Multistage&amp;nbsp; Fitness&amp;nbsp; Test&amp;nbsp; (MFT)/Bleep/Multi&amp;nbsp; Tahap/Labobahapkat&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp;Cooper Test (Tes Lari 2,4 km dan Jalan 4,8 km)&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Balke Test (Lari 15 menit)&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="m94oMQv2_2Rmss_DW8_B-1">
+        <mxCell id="m94oMQv2_2Rmss_DW8_B-16" value="&lt;b&gt;Tes Kesegaran Jasmani Indonesia (TKJ)&lt;/b&gt;&lt;br&gt;&lt;div&gt;Sprint, pull-up, sit-up, lari jauh&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Multistage&amp;nbsp; Fitness&amp;nbsp; Test&amp;nbsp; (MFT)/Bleep/Multi&amp;nbsp; Tahap/Labobahapkat&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp;Cooper Test (Tes Lari 2,4 km dan Jalan 4,8 km)&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Balke Test (Lari 15 menit)&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="m94oMQv2_2Rmss_DW8_B-1" vertex="1">
           <mxGeometry x="390" y="290" width="250" height="180" as="geometry" />
         </mxCell>
       </root>
@@ -355,6 +355,45 @@
         </mxCell>
         <mxCell id="56_YAav4UlCYLEuO0-bi-6" value="Direkomendasikan&amp;nbsp; latihan&amp;nbsp; fisik dilakukan&amp;nbsp; dengan&amp;nbsp; urutan&amp;nbsp; pemanasan&amp;nbsp; dan&amp;nbsp; peregangan&amp;nbsp; selama&amp;nbsp; 10-15 menit, selanjutnya atihan inti selama 20-60 menit, diakhiri dengan pendinginan dan peregangan selama 5-10 menit. Artinya, pelaksanaan laithan fisik harus dilaksanakan dengan intensitas ringan di sesi pemanasan dan peregangan awal, intensitas semakin tinggi&amp;nbsp; pada&amp;nbsp; sesi&amp;nbsp; inti,&amp;nbsp; dan&amp;nbsp; intensitas&amp;nbsp; turun&amp;nbsp; kembali&amp;nbsp; pada&amp;nbsp; sesi pendinginan dan peregangan akhir. " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="v7R7bcSKcjJxji7IVhy7-1">
           <mxGeometry x="520" y="140" width="230" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="ViJpCRxoY26-MP96WHWX-2" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="v7R7bcSKcjJxji7IVhy7-1" source="ViJpCRxoY26-MP96WHWX-0" target="ViJpCRxoY26-MP96WHWX-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ViJpCRxoY26-MP96WHWX-0" value="&lt;b&gt;Latihan Fisik Menurut Hasil Penelitian&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="v7R7bcSKcjJxji7IVhy7-1">
+          <mxGeometry x="365" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ViJpCRxoY26-MP96WHWX-4" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="v7R7bcSKcjJxji7IVhy7-1" source="ViJpCRxoY26-MP96WHWX-1" target="ViJpCRxoY26-MP96WHWX-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ViJpCRxoY26-MP96WHWX-6" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="v7R7bcSKcjJxji7IVhy7-1" source="ViJpCRxoY26-MP96WHWX-1" target="ViJpCRxoY26-MP96WHWX-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ViJpCRxoY26-MP96WHWX-8" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="v7R7bcSKcjJxji7IVhy7-1" source="ViJpCRxoY26-MP96WHWX-1" target="ViJpCRxoY26-MP96WHWX-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ViJpCRxoY26-MP96WHWX-10" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="v7R7bcSKcjJxji7IVhy7-1" source="ViJpCRxoY26-MP96WHWX-1" target="ViJpCRxoY26-MP96WHWX-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ViJpCRxoY26-MP96WHWX-12" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="v7R7bcSKcjJxji7IVhy7-1" source="ViJpCRxoY26-MP96WHWX-1" target="ViJpCRxoY26-MP96WHWX-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ViJpCRxoY26-MP96WHWX-1" value="Latihan Fisik Menurut Hasil PenelitianFunctional Training&amp;nbsp; adalah&amp;nbsp; latihan&amp;nbsp; fisik&amp;nbsp; yang&amp;nbsp; dilakukan dengan&amp;nbsp; menggunakan&amp;nbsp; berat&amp;nbsp; badan&amp;nbsp; sendiri&amp;nbsp; atau&amp;nbsp; alat&amp;nbsp; sederhana&amp;nbsp; lainnya untuk membantu melaksanakan latihan. Gerakannya yang digunakan juga merupakan adaptasi dari kegiatan sehari-hari seperti naik tangga, mengangkat barang, berjalan dan kegiatan lainnya. " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="v7R7bcSKcjJxji7IVhy7-1">
+          <mxGeometry x="575" y="400" width="235" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="ViJpCRxoY26-MP96WHWX-3" value="Latihan kekuatan atau Strength training" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="v7R7bcSKcjJxji7IVhy7-1">
+          <mxGeometry x="457.5" y="600" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ViJpCRxoY26-MP96WHWX-5" value="Latihan Daya Tahan atau Endurance Training" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="v7R7bcSKcjJxji7IVhy7-1">
+          <mxGeometry x="462.5" y="680" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ViJpCRxoY26-MP96WHWX-7" value="Latihan Kelenturan atau Flexibility Training" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="v7R7bcSKcjJxji7IVhy7-1">
+          <mxGeometry x="450" y="770" width="175" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ViJpCRxoY26-MP96WHWX-9" value="Latihan Keseimbangan atau Balance Training" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="v7R7bcSKcjJxji7IVhy7-1">
+          <mxGeometry x="710" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ViJpCRxoY26-MP96WHWX-11" value="Latihan kecepatan atau Speed Training" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="v7R7bcSKcjJxji7IVhy7-1">
+          <mxGeometry x="710" y="670" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
