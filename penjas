@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-29T11:44:41.031Z" agent="5.0 (X11)" etag="4bLDBgJoWYuhOjdYDbd0" version="13.8.6" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2020-10-29T11:46:54.044Z" agent="5.0 (X11)" etag="S7bQaLwtGbCm-1j7Ic_T" version="13.8.6" type="github" pages="6">
   <diagram id="eHAPRtiEo3rriIsv-kNr" name="bab 1">
     <mxGraphModel dx="927" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -395,6 +395,14 @@
         <mxCell id="ViJpCRxoY26-MP96WHWX-11" value="Latihan kecepatan atau Speed Training" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="v7R7bcSKcjJxji7IVhy7-1">
           <mxGeometry x="520" y="690" width="120" height="60" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="S5cL3GrtTe306NsmMnxA" name="bab 6">
+    <mxGraphModel dx="927" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="IQywfp1hULH7o4NeSm8o-0" />
+        <mxCell id="IQywfp1hULH7o4NeSm8o-1" parent="IQywfp1hULH7o4NeSm8o-0" />
       </root>
     </mxGraphModel>
   </diagram>
