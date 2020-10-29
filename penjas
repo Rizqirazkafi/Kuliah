@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-29T11:26:07.798Z" agent="5.0 (X11)" etag="pdQRuGcfkytf9rQrbFgb" version="13.8.6" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2020-10-29T11:27:16.937Z" agent="5.0 (X11)" etag="TZVWiVilUSp8UdeOdkKB" version="13.8.6" type="github" pages="5">
   <diagram id="eHAPRtiEo3rriIsv-kNr" name="bab 1">
     <mxGraphModel dx="927" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -332,6 +332,9 @@
         <mxCell id="56_YAav4UlCYLEuO0-bi-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="v7R7bcSKcjJxji7IVhy7-1" source="56_YAav4UlCYLEuO0-bi-0" target="56_YAav4UlCYLEuO0-bi-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="56_YAav4UlCYLEuO0-bi-7" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="v7R7bcSKcjJxji7IVhy7-1" source="56_YAav4UlCYLEuO0-bi-0" target="56_YAav4UlCYLEuO0-bi-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="56_YAav4UlCYLEuO0-bi-0" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Rekomendasi Aktivitas Fisik&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="v7R7bcSKcjJxji7IVhy7-1">
           <mxGeometry x="365" y="20" width="120" height="120" as="geometry" />
         </mxCell>
@@ -343,6 +346,15 @@
         </mxCell>
         <mxCell id="56_YAav4UlCYLEuO0-bi-2" value="&lt;div&gt;&lt;b&gt;18 - 64 tahun&lt;/b&gt;&lt;/div&gt;&lt;div&gt;melakukan&amp;nbsp; setidaknya&amp;nbsp; 150&amp;nbsp; menit&amp;nbsp; aktivitas&amp;nbsp; fisik aerobik intensitas sedang dalam satu minggu atau melakukan setidaknya&amp;nbsp; 75&amp;nbsp; menit&amp;nbsp; aktivitas&amp;nbsp; fisik&amp;nbsp; aerobik&amp;nbsp; intensitas&amp;nbsp; tinggi dalam satu minggu atau kombinasi keduanya.&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="v7R7bcSKcjJxji7IVhy7-1">
           <mxGeometry x="95" y="360" width="250" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="56_YAav4UlCYLEuO0-bi-8" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="v7R7bcSKcjJxji7IVhy7-1" source="56_YAav4UlCYLEuO0-bi-5" target="56_YAav4UlCYLEuO0-bi-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="56_YAav4UlCYLEuO0-bi-5" value="&lt;b&gt;Latihan Fisik Menurut Kementerian Kesehatan Republik Indonesia&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="v7R7bcSKcjJxji7IVhy7-1">
+          <mxGeometry x="540" y="50" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="56_YAav4UlCYLEuO0-bi-6" value="Direkomendasikan&amp;nbsp; latihan&amp;nbsp; fisik dilakukan&amp;nbsp; dengan&amp;nbsp; urutan&amp;nbsp; pemanasan&amp;nbsp; dan&amp;nbsp; peregangan&amp;nbsp; selama&amp;nbsp; 10-15 menit, selanjutnya atihan inti selama 20-60 menit, diakhiri dengan pendinginan dan peregangan selama 5-10 menit. Artinya, pelaksanaan laithan fisik harus dilaksanakan dengan intensitas ringan di sesi pemanasan dan peregangan awal, intensitas semakin tinggi&amp;nbsp; pada&amp;nbsp; sesi&amp;nbsp; inti,&amp;nbsp; dan&amp;nbsp; intensitas&amp;nbsp; turun&amp;nbsp; kembali&amp;nbsp; pada&amp;nbsp; sesi pendinginan dan peregangan akhir. " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="v7R7bcSKcjJxji7IVhy7-1">
+          <mxGeometry x="520" y="140" width="230" height="240" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
