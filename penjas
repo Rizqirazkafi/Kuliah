@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-29T09:37:38.613Z" agent="5.0 (X11)" etag="HJ6nJGTA3O79BK0eXebo" version="13.8.5" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-10-29T09:37:51.794Z" agent="5.0 (X11)" etag="u8XYvLlfHjZkKfQhcpAl" version="13.8.5" type="github" pages="4">
   <diagram id="eHAPRtiEo3rriIsv-kNr" name="bab 1">
     <mxGraphModel dx="927" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -239,6 +239,14 @@
         <mxCell id="m94oMQv2_2Rmss_DW8_B-16" value="&lt;b&gt;Tes Kesegaran Jasmani Indonesia (TKJ)&lt;/b&gt;&lt;br&gt;&lt;div&gt;Sprint, pull-up, sit-up, lari jauh&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Multistage&amp;nbsp; Fitness&amp;nbsp; Test&amp;nbsp; (MFT)/Bleep/Multi&amp;nbsp; Tahap/Labobahapkat&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp;Cooper Test (Tes Lari 2,4 km dan Jalan 4,8 km)&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Balke Test (Lari 15 menit)&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="m94oMQv2_2Rmss_DW8_B-1">
           <mxGeometry x="390" y="290" width="250" height="180" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="acbukmJxsywHGSlvowht" name="bab 4">
+    <mxGraphModel dx="927" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="ekMyGWBLCoEYwa4gP-dc-0" />
+        <mxCell id="ekMyGWBLCoEYwa4gP-dc-1" parent="ekMyGWBLCoEYwa4gP-dc-0" />
       </root>
     </mxGraphModel>
   </diagram>
