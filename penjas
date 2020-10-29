@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-29T11:11:04.211Z" agent="5.0 (X11)" etag="jm5rY431Qb7H5KLUVdGr" version="13.8.6" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2020-10-29T11:26:07.798Z" agent="5.0 (X11)" etag="pdQRuGcfkytf9rQrbFgb" version="13.8.6" type="github" pages="5">
   <diagram id="eHAPRtiEo3rriIsv-kNr" name="bab 1">
     <mxGraphModel dx="927" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -329,8 +329,20 @@
       <root>
         <mxCell id="v7R7bcSKcjJxji7IVhy7-0" />
         <mxCell id="v7R7bcSKcjJxji7IVhy7-1" parent="v7R7bcSKcjJxji7IVhy7-0" />
+        <mxCell id="56_YAav4UlCYLEuO0-bi-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="v7R7bcSKcjJxji7IVhy7-1" source="56_YAav4UlCYLEuO0-bi-0" target="56_YAav4UlCYLEuO0-bi-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="56_YAav4UlCYLEuO0-bi-0" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Rekomendasi Aktivitas Fisik&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="v7R7bcSKcjJxji7IVhy7-1">
           <mxGeometry x="365" y="20" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="56_YAav4UlCYLEuO0-bi-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="v7R7bcSKcjJxji7IVhy7-1" source="56_YAav4UlCYLEuO0-bi-1" target="56_YAav4UlCYLEuO0-bi-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="56_YAav4UlCYLEuO0-bi-1" value="&lt;div&gt;&lt;b&gt;5 - 17 tahun&lt;/b&gt;&lt;/div&gt;&lt;div&gt;melaksanakan aktivitas fisik sedang hingga berat minimal 60 menit tiap hari. Ditambah dengan aktivitas fisik minimal selama 60 menit untuk dapat memberikan manfaat kesehatan tambahan. Bentuk aktivitas fisik yang dilaksanakan sebagian besar harus bersifat aerobik. Terakhir, anak-anak dan remaja berusia 5-17 tahun perlu juga melaksanakan aktivitas fisik dengan intensitas berat, termasuk yang bermanfaat untuk memperkuat otot dan tulang, setidaknya dilakukan sebanyak 3 kali tiap minggu.&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="v7R7bcSKcjJxji7IVhy7-1">
+          <mxGeometry x="90" y="120" width="260" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="56_YAav4UlCYLEuO0-bi-2" value="&lt;div&gt;&lt;b&gt;18 - 64 tahun&lt;/b&gt;&lt;/div&gt;&lt;div&gt;melakukan&amp;nbsp; setidaknya&amp;nbsp; 150&amp;nbsp; menit&amp;nbsp; aktivitas&amp;nbsp; fisik aerobik intensitas sedang dalam satu minggu atau melakukan setidaknya&amp;nbsp; 75&amp;nbsp; menit&amp;nbsp; aktivitas&amp;nbsp; fisik&amp;nbsp; aerobik&amp;nbsp; intensitas&amp;nbsp; tinggi dalam satu minggu atau kombinasi keduanya.&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="v7R7bcSKcjJxji7IVhy7-1">
+          <mxGeometry x="95" y="360" width="250" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
