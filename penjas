@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-30T02:01:41.178Z" agent="5.0 (X11)" etag="pssR8vG4CdUBYSyotfMi" version="13.8.7" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2020-10-30T02:12:14.402Z" agent="5.0 (X11)" etag="i-_mZMNlGiKeP9p-w2iw" version="13.8.7" type="github" pages="8">
   <diagram id="eHAPRtiEo3rriIsv-kNr" name="bab 1">
     <mxGraphModel dx="927" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -542,6 +542,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="wsh7ZQvw7KH59otsKwAp-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="wsh7ZQvw7KH59otsKwAp-1" source="wsh7ZQvw7KH59otsKwAp-2" target="wsh7ZQvw7KH59otsKwAp-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="467" y="45" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wsh7ZQvw7KH59otsKwAp-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="wsh7ZQvw7KH59otsKwAp-1" source="wsh7ZQvw7KH59otsKwAp-2" target="wsh7ZQvw7KH59otsKwAp-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="wsh7ZQvw7KH59otsKwAp-2" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Asupan Gizi dan Pola Makan yang Sehat&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;" vertex="1" parent="wsh7ZQvw7KH59otsKwAp-1">
           <mxGeometry x="365" y="30" width="120" height="120" as="geometry" />
         </mxCell>
@@ -553,6 +563,56 @@
         </mxCell>
         <mxCell id="wsh7ZQvw7KH59otsKwAp-4" value="Gizi memegang peran penting dalam mewujudkan pola hidup sehat. Gizi yang tepat merupakan dasar utama bagi seseorang yang akan melakukan olahraga. Gizi dibutuhkan untuk kerja biologik tubuh, dibutuhkan untuk memperbaiki atau mengganti sel tubuh yang rusak." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wsh7ZQvw7KH59otsKwAp-1">
           <mxGeometry x="10" y="130" width="290" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="wsh7ZQvw7KH59otsKwAp-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="wsh7ZQvw7KH59otsKwAp-1" source="wsh7ZQvw7KH59otsKwAp-7" target="wsh7ZQvw7KH59otsKwAp-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="655" y="100" />
+              <mxPoint x="590" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wsh7ZQvw7KH59otsKwAp-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="wsh7ZQvw7KH59otsKwAp-1" source="wsh7ZQvw7KH59otsKwAp-7" target="wsh7ZQvw7KH59otsKwAp-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="655" y="90" />
+              <mxPoint x="510" y="90" />
+              <mxPoint x="510" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wsh7ZQvw7KH59otsKwAp-7" value="&lt;b&gt;Klasifikasi Zat Gizi dan Fungsinya&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wsh7ZQvw7KH59otsKwAp-1">
+          <mxGeometry x="580" y="25" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wsh7ZQvw7KH59otsKwAp-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="wsh7ZQvw7KH59otsKwAp-1" source="wsh7ZQvw7KH59otsKwAp-9" target="wsh7ZQvw7KH59otsKwAp-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wsh7ZQvw7KH59otsKwAp-9" value="&lt;b&gt;Triguna Makanan&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wsh7ZQvw7KH59otsKwAp-1">
+          <mxGeometry x="530" y="120" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wsh7ZQvw7KH59otsKwAp-11" value="Sumber tenaga, zat pengatur, zat pembangun" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wsh7ZQvw7KH59otsKwAp-1">
+          <mxGeometry x="690" y="105" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wsh7ZQvw7KH59otsKwAp-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="wsh7ZQvw7KH59otsKwAp-1" source="wsh7ZQvw7KH59otsKwAp-14" target="wsh7ZQvw7KH59otsKwAp-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wsh7ZQvw7KH59otsKwAp-14" value="&lt;b&gt;5 Macam zat gizi&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wsh7ZQvw7KH59otsKwAp-1">
+          <mxGeometry x="530" y="190" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wsh7ZQvw7KH59otsKwAp-17" value="Karbohidrat, Protein, Lemak, Vitamin, Mineral" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wsh7ZQvw7KH59otsKwAp-1">
+          <mxGeometry x="690" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wsh7ZQvw7KH59otsKwAp-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="wsh7ZQvw7KH59otsKwAp-1" source="wsh7ZQvw7KH59otsKwAp-20" target="wsh7ZQvw7KH59otsKwAp-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wsh7ZQvw7KH59otsKwAp-20" value="&lt;b&gt;Prinsip Gizi Seimbang&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wsh7ZQvw7KH59otsKwAp-1">
+          <mxGeometry x="100" y="260" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wsh7ZQvw7KH59otsKwAp-22" value="Mengkonsumsi makanan beragam, membiasakan perilaku hidup sehat, melakukan aktivitas fisik, mempertahankan dan memantau berat badan normal" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wsh7ZQvw7KH59otsKwAp-1">
+          <mxGeometry x="80" y="320" width="140" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="wsh7ZQvw7KH59otsKwAp-24" value="&lt;b&gt;Pentingnya Air Dalam Tubuh&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wsh7ZQvw7KH59otsKwAp-1">
+          <mxGeometry x="520" y="250" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
