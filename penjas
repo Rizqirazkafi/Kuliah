@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-30T01:58:10.935Z" agent="5.0 (X11)" etag="K6QQ5-pSH8aTdGsA7_RN" version="13.8.7" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2020-10-30T02:01:41.178Z" agent="5.0 (X11)" etag="pssR8vG4CdUBYSyotfMi" version="13.8.7" type="github" pages="8">
   <diagram id="eHAPRtiEo3rriIsv-kNr" name="bab 1">
     <mxGraphModel dx="927" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -465,7 +465,7 @@
         <mxCell id="r5FfYKu7TpUweFDsDUFr-7" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="r5FfYKu7TpUweFDsDUFr-1" source="r5FfYKu7TpUweFDsDUFr-2" target="r5FfYKu7TpUweFDsDUFr-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="r5FfYKu7TpUweFDsDUFr-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="r5FfYKu7TpUweFDsDUFr-1" source="r5FfYKu7TpUweFDsDUFr-2" target="r5FfYKu7TpUweFDsDUFr-14">
+        <mxCell id="r5FfYKu7TpUweFDsDUFr-15" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="r5FfYKu7TpUweFDsDUFr-1" source="r5FfYKu7TpUweFDsDUFr-2" target="r5FfYKu7TpUweFDsDUFr-14">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="387" y="145" />
@@ -474,7 +474,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="r5FfYKu7TpUweFDsDUFr-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="r5FfYKu7TpUweFDsDUFr-1" source="r5FfYKu7TpUweFDsDUFr-2" target="r5FfYKu7TpUweFDsDUFr-10">
+        <mxCell id="r5FfYKu7TpUweFDsDUFr-19" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="r5FfYKu7TpUweFDsDUFr-1" source="r5FfYKu7TpUweFDsDUFr-2" target="r5FfYKu7TpUweFDsDUFr-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="520" y="114" />
@@ -482,7 +482,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="r5FfYKu7TpUweFDsDUFr-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="r5FfYKu7TpUweFDsDUFr-1" source="r5FfYKu7TpUweFDsDUFr-2" target="r5FfYKu7TpUweFDsDUFr-21">
+        <mxCell id="r5FfYKu7TpUweFDsDUFr-22" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="r5FfYKu7TpUweFDsDUFr-1" source="r5FfYKu7TpUweFDsDUFr-2" target="r5FfYKu7TpUweFDsDUFr-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="r5FfYKu7TpUweFDsDUFr-2" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Permainan Tradisional&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;" vertex="1" parent="r5FfYKu7TpUweFDsDUFr-1">
@@ -500,7 +500,7 @@
         <mxCell id="r5FfYKu7TpUweFDsDUFr-8" value="Beberapa penelitian di bidang Ilmu Keolahragaan menunjukkan bahwa permainan tradisional, dapat memberikan rangsangan positif terhadap aktivitas gerak. Selain menyenangkan dan menambah kebugaran,&amp;nbsp; permainan&amp;nbsp; tradisional&amp;nbsp; juga&amp;nbsp; dapat&amp;nbsp; merangsang otak melalui kegiatannya. Hal ini disebabkan karena bermain permainan tradisional seringkali melibatkan kegiatan melihat,mendengar,&amp;nbsp;&amp;nbsp; meraba,&amp;nbsp;&amp;nbsp; dan&amp;nbsp;&amp;nbsp; merasakan,&amp;nbsp;&amp;nbsp; yang&amp;nbsp;&amp;nbsp; semuanya&amp;nbsp;&amp;nbsp; itu&amp;nbsp;&amp;nbsp; berpengaruh positif terhadap kebugaran dan kesehatan otak." style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="r5FfYKu7TpUweFDsDUFr-1">
           <mxGeometry x="550" y="130" width="290" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="r5FfYKu7TpUweFDsDUFr-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="r5FfYKu7TpUweFDsDUFr-1" source="r5FfYKu7TpUweFDsDUFr-10" target="r5FfYKu7TpUweFDsDUFr-12">
+        <mxCell id="r5FfYKu7TpUweFDsDUFr-20" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="r5FfYKu7TpUweFDsDUFr-1" source="r5FfYKu7TpUweFDsDUFr-10" target="r5FfYKu7TpUweFDsDUFr-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="r5FfYKu7TpUweFDsDUFr-10" value="&lt;b&gt;Sasaran Permainan tradisional &lt;br&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="r5FfYKu7TpUweFDsDUFr-1">
@@ -509,23 +509,50 @@
         <mxCell id="r5FfYKu7TpUweFDsDUFr-12" value="Permainan-permainan tradisional memiliki nilai positif, misalnya anak menjadi banyak bergerak sehingga terhindar dari masalah obesitas anak. Sosialisasi mereka dengan orang lain akan semakin baik karena dalam permainan dimainkan oleh minimal 2 anak. Selain itu, dalam permainan berkelompok mereka juga harus menentukan strategi, berkomunikasi dan bekerja sama dengan anggota tim. " style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="r5FfYKu7TpUweFDsDUFr-1">
           <mxGeometry x="571.5" y="440" width="272" height="155" as="geometry" />
         </mxCell>
-        <mxCell id="r5FfYKu7TpUweFDsDUFr-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="r5FfYKu7TpUweFDsDUFr-1" source="r5FfYKu7TpUweFDsDUFr-14" target="r5FfYKu7TpUweFDsDUFr-16">
+        <mxCell id="r5FfYKu7TpUweFDsDUFr-18" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="r5FfYKu7TpUweFDsDUFr-1" source="r5FfYKu7TpUweFDsDUFr-14" target="r5FfYKu7TpUweFDsDUFr-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="r5FfYKu7TpUweFDsDUFr-14" value="&lt;b&gt;Manfaat Permainan Tradisional dalam Peningkatan Keterampilan Gerak&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="r5FfYKu7TpUweFDsDUFr-1">
+        <mxCell id="r5FfYKu7TpUweFDsDUFr-14" value="&lt;b&gt;Manfaat Permainan Tradisional dalam Peningkatan Keterampilan Gerak&lt;br&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="r5FfYKu7TpUweFDsDUFr-1">
           <mxGeometry x="85" y="430" width="120" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="r5FfYKu7TpUweFDsDUFr-16" value="Keterampilan gerak&amp;nbsp; fisik&amp;nbsp; yang&amp;nbsp; diperoleh&amp;nbsp; melalui&amp;nbsp; pendidikan&amp;nbsp; jasmani&amp;nbsp; tidak hanya berguna untuk menguasai cabang olahraga tertentu tapi juga untuk melakukan aktivitas dan tugas fisik dalam kehidupan sehari-hari. " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="r5FfYKu7TpUweFDsDUFr-1">
+        <mxCell id="r5FfYKu7TpUweFDsDUFr-16" value="Keterampilan gerak&amp;nbsp; fisik&amp;nbsp; yang&amp;nbsp; diperoleh&amp;nbsp; melalui&amp;nbsp; pendidikan&amp;nbsp; jasmani&amp;nbsp; tidak hanya berguna untuk menguasai cabang olahraga tertentu tapi juga untuk melakukan aktivitas dan tugas fisik dalam kehidupan sehari-hari. " style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="r5FfYKu7TpUweFDsDUFr-1">
           <mxGeometry x="45" y="250" width="200" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="r5FfYKu7TpUweFDsDUFr-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="r5FfYKu7TpUweFDsDUFr-1" source="r5FfYKu7TpUweFDsDUFr-21" target="r5FfYKu7TpUweFDsDUFr-23">
+        <mxCell id="r5FfYKu7TpUweFDsDUFr-24" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="r5FfYKu7TpUweFDsDUFr-1" source="r5FfYKu7TpUweFDsDUFr-21" target="r5FfYKu7TpUweFDsDUFr-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="r5FfYKu7TpUweFDsDUFr-21" value="&lt;b&gt;Contoh Permainan Kecil&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="r5FfYKu7TpUweFDsDUFr-1">
+        <mxCell id="r5FfYKu7TpUweFDsDUFr-21" value="&lt;b&gt;Contoh Permainan Kecil&lt;br&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="r5FfYKu7TpUweFDsDUFr-1">
           <mxGeometry x="365.5" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="r5FfYKu7TpUweFDsDUFr-23" value="&lt;ol&gt;&lt;li&gt;Gobak sodor&lt;/li&gt;&lt;li&gt;Sonda&lt;/li&gt;&lt;li&gt;Tikus dan kucing&lt;/li&gt;&lt;li&gt;Benteng - bentengan&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="r5FfYKu7TpUweFDsDUFr-1">
+        <mxCell id="r5FfYKu7TpUweFDsDUFr-23" value="&lt;ol&gt;&lt;li&gt;Gobak sodor&lt;/li&gt;&lt;li&gt;Sonda&lt;/li&gt;&lt;li&gt;Tikus dan kucing&lt;/li&gt;&lt;li&gt;Benteng - bentengan&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="whiteSpace=wrap;html=1;align=left;rounded=1;" vertex="1" parent="r5FfYKu7TpUweFDsDUFr-1">
           <mxGeometry x="320.5" y="390" width="210" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="EKgiunPITjVOCILAhUY7" name="bab 8">
+    <mxGraphModel dx="773" dy="454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="wsh7ZQvw7KH59otsKwAp-0" />
+        <mxCell id="wsh7ZQvw7KH59otsKwAp-1" parent="wsh7ZQvw7KH59otsKwAp-0" />
+        <mxCell id="wsh7ZQvw7KH59otsKwAp-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="wsh7ZQvw7KH59otsKwAp-1" source="wsh7ZQvw7KH59otsKwAp-2" target="wsh7ZQvw7KH59otsKwAp-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="383" y="45" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wsh7ZQvw7KH59otsKwAp-2" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Asupan Gizi dan Pola Makan yang Sehat&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;" vertex="1" parent="wsh7ZQvw7KH59otsKwAp-1">
+          <mxGeometry x="365" y="30" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="wsh7ZQvw7KH59otsKwAp-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.453;entryY=0.018;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="wsh7ZQvw7KH59otsKwAp-1" source="wsh7ZQvw7KH59otsKwAp-3" target="wsh7ZQvw7KH59otsKwAp-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wsh7ZQvw7KH59otsKwAp-3" value="&lt;b&gt;Zat Gizi&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wsh7ZQvw7KH59otsKwAp-1">
+          <mxGeometry x="110" y="30" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wsh7ZQvw7KH59otsKwAp-4" value="Gizi memegang peran penting dalam mewujudkan pola hidup sehat. Gizi yang tepat merupakan dasar utama bagi seseorang yang akan melakukan olahraga. Gizi dibutuhkan untuk kerja biologik tubuh, dibutuhkan untuk memperbaiki atau mengganti sel tubuh yang rusak." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wsh7ZQvw7KH59otsKwAp-1">
+          <mxGeometry x="10" y="130" width="290" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
