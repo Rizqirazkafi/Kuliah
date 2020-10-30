@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-30T01:51:03.265Z" agent="5.0 (X11)" etag="IMdwwCM4a6NFfSXIS7LL" version="13.8.7" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2020-10-30T01:56:40.550Z" agent="5.0 (X11)" etag="bEsdMDeMaPw_TJh_ZJKA" version="13.8.7" type="github" pages="7">
   <diagram id="eHAPRtiEo3rriIsv-kNr" name="bab 1">
     <mxGraphModel dx="927" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -465,14 +465,60 @@
         <mxCell id="r5FfYKu7TpUweFDsDUFr-7" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="r5FfYKu7TpUweFDsDUFr-1" source="r5FfYKu7TpUweFDsDUFr-2" target="r5FfYKu7TpUweFDsDUFr-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="r5FfYKu7TpUweFDsDUFr-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="r5FfYKu7TpUweFDsDUFr-1" source="r5FfYKu7TpUweFDsDUFr-2" target="r5FfYKu7TpUweFDsDUFr-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="387" y="145" />
+              <mxPoint x="320" y="145" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r5FfYKu7TpUweFDsDUFr-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="r5FfYKu7TpUweFDsDUFr-1" source="r5FfYKu7TpUweFDsDUFr-2" target="r5FfYKu7TpUweFDsDUFr-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="520" y="114" />
+              <mxPoint x="520" y="375" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r5FfYKu7TpUweFDsDUFr-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="r5FfYKu7TpUweFDsDUFr-1" source="r5FfYKu7TpUweFDsDUFr-2" target="r5FfYKu7TpUweFDsDUFr-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="r5FfYKu7TpUweFDsDUFr-2" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Permainan Tradisional&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;" vertex="1" parent="r5FfYKu7TpUweFDsDUFr-1">
-          <mxGeometry x="370" y="20" width="110" height="110" as="geometry" />
+          <mxGeometry x="370.5" y="20" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="r5FfYKu7TpUweFDsDUFr-3" value="&lt;div&gt;&lt;b&gt;Pengertian&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Permainan tradisional adalah suatu bentuk permainan yang tidak mempunyai peraturan baku, baik mengenai peraturan permainannya,&amp;nbsp;&amp;nbsp; alat-alat&amp;nbsp;&amp;nbsp; yang&amp;nbsp;&amp;nbsp; digunakan,&amp;nbsp;&amp;nbsp; ukuran&amp;nbsp;&amp;nbsp; lapangan,&amp;nbsp;&amp;nbsp; maupun lama permainannya. Hal ini dapat disesuaikan dengan keadaan atau situasi. Disamping itu belum mempunyai induk organisasi baik yang bersifat nasional maupun internasional. &lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="r5FfYKu7TpUweFDsDUFr-1">
-          <mxGeometry x="60" y="40" width="210" height="215" as="geometry" />
+          <mxGeometry x="40" y="5" width="210" height="215" as="geometry" />
+        </mxCell>
+        <mxCell id="r5FfYKu7TpUweFDsDUFr-9" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="r5FfYKu7TpUweFDsDUFr-1" source="r5FfYKu7TpUweFDsDUFr-4" target="r5FfYKu7TpUweFDsDUFr-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="r5FfYKu7TpUweFDsDUFr-4" value="&lt;b&gt;Nilai Strategis Permainan Tradisional Terhadap Aktivitas Gerak &lt;br&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="r5FfYKu7TpUweFDsDUFr-1">
           <mxGeometry x="550" y="45" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r5FfYKu7TpUweFDsDUFr-8" value="Beberapa penelitian di bidang Ilmu Keolahragaan menunjukkan bahwa permainan tradisional, dapat memberikan rangsangan positif terhadap aktivitas gerak. Selain menyenangkan dan menambah kebugaran,&amp;nbsp; permainan&amp;nbsp; tradisional&amp;nbsp; juga&amp;nbsp; dapat&amp;nbsp; merangsang otak melalui kegiatannya. Hal ini disebabkan karena bermain permainan tradisional seringkali melibatkan kegiatan melihat,mendengar,&amp;nbsp;&amp;nbsp; meraba,&amp;nbsp;&amp;nbsp; dan&amp;nbsp;&amp;nbsp; merasakan,&amp;nbsp;&amp;nbsp; yang&amp;nbsp;&amp;nbsp; semuanya&amp;nbsp;&amp;nbsp; itu&amp;nbsp;&amp;nbsp; berpengaruh positif terhadap kebugaran dan kesehatan otak." style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="r5FfYKu7TpUweFDsDUFr-1">
+          <mxGeometry x="550" y="130" width="290" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="r5FfYKu7TpUweFDsDUFr-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="r5FfYKu7TpUweFDsDUFr-1" source="r5FfYKu7TpUweFDsDUFr-10" target="r5FfYKu7TpUweFDsDUFr-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r5FfYKu7TpUweFDsDUFr-10" value="&lt;b&gt;Sasaran Permainan tradisional &lt;br&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="r5FfYKu7TpUweFDsDUFr-1">
+          <mxGeometry x="630" y="350" width="155" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="r5FfYKu7TpUweFDsDUFr-12" value="Permainan-permainan tradisional memiliki nilai positif, misalnya anak menjadi banyak bergerak sehingga terhindar dari masalah obesitas anak. Sosialisasi mereka dengan orang lain akan semakin baik karena dalam permainan dimainkan oleh minimal 2 anak. Selain itu, dalam permainan berkelompok mereka juga harus menentukan strategi, berkomunikasi dan bekerja sama dengan anggota tim. " style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="r5FfYKu7TpUweFDsDUFr-1">
+          <mxGeometry x="571.5" y="440" width="272" height="155" as="geometry" />
+        </mxCell>
+        <mxCell id="r5FfYKu7TpUweFDsDUFr-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="r5FfYKu7TpUweFDsDUFr-1" source="r5FfYKu7TpUweFDsDUFr-14" target="r5FfYKu7TpUweFDsDUFr-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r5FfYKu7TpUweFDsDUFr-14" value="&lt;b&gt;Manfaat Permainan Tradisional dalam Peningkatan Keterampilan Gerak&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="r5FfYKu7TpUweFDsDUFr-1">
+          <mxGeometry x="85" y="430" width="120" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="r5FfYKu7TpUweFDsDUFr-16" value="Keterampilan gerak&amp;nbsp; fisik&amp;nbsp; yang&amp;nbsp; diperoleh&amp;nbsp; melalui&amp;nbsp; pendidikan&amp;nbsp; jasmani&amp;nbsp; tidak hanya berguna untuk menguasai cabang olahraga tertentu tapi juga untuk melakukan aktivitas dan tugas fisik dalam kehidupan sehari-hari. " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="r5FfYKu7TpUweFDsDUFr-1">
+          <mxGeometry x="45" y="250" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="r5FfYKu7TpUweFDsDUFr-21" value="&lt;b&gt;Contoh Permainan Kecil&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="r5FfYKu7TpUweFDsDUFr-1">
+          <mxGeometry x="365.5" y="200" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
