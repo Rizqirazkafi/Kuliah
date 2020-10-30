@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-30T01:48:53.556Z" agent="5.0 (X11)" etag="aLIgi_QPyrWTCwRERRb-" version="13.8.7" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2020-10-30T01:51:03.265Z" agent="5.0 (X11)" etag="IMdwwCM4a6NFfSXIS7LL" version="13.8.7" type="github" pages="7">
   <diagram id="eHAPRtiEo3rriIsv-kNr" name="bab 1">
     <mxGraphModel dx="927" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -459,11 +459,20 @@
       <root>
         <mxCell id="r5FfYKu7TpUweFDsDUFr-0" />
         <mxCell id="r5FfYKu7TpUweFDsDUFr-1" parent="r5FfYKu7TpUweFDsDUFr-0" />
-        <mxCell id="r5FfYKu7TpUweFDsDUFr-2" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Permainan Tradisional&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="r5FfYKu7TpUweFDsDUFr-1">
+        <mxCell id="r5FfYKu7TpUweFDsDUFr-5" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="r5FfYKu7TpUweFDsDUFr-1" source="r5FfYKu7TpUweFDsDUFr-2" target="r5FfYKu7TpUweFDsDUFr-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r5FfYKu7TpUweFDsDUFr-7" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="r5FfYKu7TpUweFDsDUFr-1" source="r5FfYKu7TpUweFDsDUFr-2" target="r5FfYKu7TpUweFDsDUFr-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r5FfYKu7TpUweFDsDUFr-2" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Permainan Tradisional&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;" vertex="1" parent="r5FfYKu7TpUweFDsDUFr-1">
           <mxGeometry x="370" y="20" width="110" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="r5FfYKu7TpUweFDsDUFr-3" value="&lt;div&gt;&lt;b&gt;Pengertian&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Permainan tradisional adalah suatu bentuk permainan yang tidak mempunyai peraturan baku, baik mengenai peraturan permainannya,&amp;nbsp;&amp;nbsp; alat-alat&amp;nbsp;&amp;nbsp; yang&amp;nbsp;&amp;nbsp; digunakan,&amp;nbsp;&amp;nbsp; ukuran&amp;nbsp;&amp;nbsp; lapangan,&amp;nbsp;&amp;nbsp; maupun lama permainannya. Hal ini dapat disesuaikan dengan keadaan atau situasi. Disamping itu belum mempunyai induk organisasi baik yang bersifat nasional maupun internasional. &lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="r5FfYKu7TpUweFDsDUFr-1">
+        <mxCell id="r5FfYKu7TpUweFDsDUFr-3" value="&lt;div&gt;&lt;b&gt;Pengertian&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Permainan tradisional adalah suatu bentuk permainan yang tidak mempunyai peraturan baku, baik mengenai peraturan permainannya,&amp;nbsp;&amp;nbsp; alat-alat&amp;nbsp;&amp;nbsp; yang&amp;nbsp;&amp;nbsp; digunakan,&amp;nbsp;&amp;nbsp; ukuran&amp;nbsp;&amp;nbsp; lapangan,&amp;nbsp;&amp;nbsp; maupun lama permainannya. Hal ini dapat disesuaikan dengan keadaan atau situasi. Disamping itu belum mempunyai induk organisasi baik yang bersifat nasional maupun internasional. &lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="r5FfYKu7TpUweFDsDUFr-1">
           <mxGeometry x="60" y="40" width="210" height="215" as="geometry" />
+        </mxCell>
+        <mxCell id="r5FfYKu7TpUweFDsDUFr-4" value="&lt;b&gt;Nilai Strategis Permainan Tradisional Terhadap Aktivitas Gerak &lt;br&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="r5FfYKu7TpUweFDsDUFr-1">
+          <mxGeometry x="550" y="45" width="290" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
