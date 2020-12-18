@@ -13,7 +13,7 @@ int main() {
   string bits, final, username, password;
 
   while (loginAttempt < 5) {
-    cout << "Harap masukkan user name : ";
+    cout << "Harap masukkan username : ";
     cin >> username;
 
     cout << "Harap masukkan password :  ";
