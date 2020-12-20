@@ -33,13 +33,14 @@ int main() {
       if (sub_opsi == "a") {
         // scanf()
         cin.ignore();
-        char compare;
+        char compare[20];
 
         cout << "Anda memilih scanf() " << endl;
         cout << "Nilai string saat ini : " << compare << endl;
         cout << "Panjang nilai saat ini : " << sizeof(compare) << endl;
         cout << "Masukkan input : ";
-        scanf("%c", &compare);
+        scanf("%s", compare);
+        
         cout << "Nilai string saat ini : " << compare << endl;
         cout << "Panjang nilai saat ini : " << sizeof(compare) << endl;
         return 0;
