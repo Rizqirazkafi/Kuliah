@@ -27,21 +27,48 @@ int main() {
 
     case 1: {
       // PROGRAM INPUT STRING
-      // scanf()
 
-      // gets() -- now as getline()
-
-      // fgets()
       cout << "Masukkan sub menu : ";
       cin >> sub_opsi;
       if (sub_opsi == "a") {
-        cout << "Maaf, program belum tersedia" << endl;
+        // scanf()
+        cin.ignore();
+        char compare;
+
+        cout << "Anda memilih scanf() " << endl;
+        cout << "Nilai string saat ini : " << compare << endl;
+        cout << "Panjang nilai saat ini : " << sizeof(compare) << endl;
+        cout << "Masukkan input : ";
+        scanf("%c", &compare);
+        cout << "Nilai string saat ini : " << compare << endl;
+        cout << "Panjang nilai saat ini : " << sizeof(compare) << endl;
+        return 0;
 
       } else if (sub_opsi == "b") {
-        cout << "Maaf, program belum tersedia" << endl;
+        // getline()
+        cin.ignore();
+        string compare;
+        cout << "Anda memilih getline() " << endl;
+        cout << "Nilai string saat ini : " << compare << endl;
+        cout << "Panjang string saat ini  : " << compare.length() << endl;
+        cout << "Masukkan input : ";
+        getline(cin, compare);
+        cout << "Nilai string saat ini : " << compare << endl;
+        cout << "Panjang string saat ini  : " << compare.length() << endl;
+        return 0;
 
       } else if (sub_opsi == "c") {
-        cout << "Maaf, program belum tersedia" << endl;
+        // fgets()
+        cin.ignore();
+        char compare[20];
+        cout << "Anda memilih fgets() " << endl;
+        cout << "Nilai string saat ini : " << compare << endl;
+        cout << "Panjang string saat ini  : " << sizeof(compare) << endl;
+        cout << "Masukkan input : ";
+        fgets(compare, 20, stdin);
+        cout << "Nilai string saat ini : " << compare << endl;
+        cout << "Panjang string saat ini  : " << sizeof(compare) << endl;
+        return 0;
 
       } else {
         cout << "Maaf, input yang anda masukkan salah." << endl;
@@ -87,7 +114,7 @@ int main() {
     } break;
     }
     cout << endl;
-    cout << "Ulangi Program ? (y/n) : " ;
+    cout << "Ulangi Program ? (y/n) : ";
     cin >> repeat;
   }
 }
