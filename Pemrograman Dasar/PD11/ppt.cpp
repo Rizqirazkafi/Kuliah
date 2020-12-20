@@ -40,10 +40,15 @@ int main() {
         cout << "Panjang nilai saat ini : " << sizeof(compare) << endl;
         cout << "Masukkan input : ";
         scanf("%s", compare);
-        
+
         cout << "Nilai string saat ini : " << compare << endl;
         cout << "Panjang nilai saat ini : " << sizeof(compare) << endl;
-        return 0;
+
+        // Repeat Prompt
+
+        cout << endl;
+        cout << "Ulangi Program ? (y/n) : ";
+        cin >> repeat;
 
       } else if (sub_opsi == "b") {
         // getline()
@@ -56,7 +61,9 @@ int main() {
         getline(cin, compare);
         cout << "Nilai string saat ini : " << compare << endl;
         cout << "Panjang string saat ini  : " << compare.length() << endl;
-        return 0;
+        cout << endl;
+        cout << "Ulangi Program ? (y/n) : ";
+        cin >> repeat;
 
       } else if (sub_opsi == "c") {
         // fgets()
@@ -69,11 +76,15 @@ int main() {
         fgets(compare, 20, stdin);
         cout << "Nilai string saat ini : " << compare << endl;
         cout << "Panjang string saat ini  : " << sizeof(compare) << endl;
-        return 0;
+        cout << endl;
+        cout << "Ulangi Program ? (y/n) : ";
+        cin >> repeat;
 
       } else {
         cout << "Maaf, input yang anda masukkan salah." << endl;
-        cout << "Program akan berakhir !" << endl;
+
+        cout << "Ulangi Program ? (y/n) : ";
+        cin >> repeat;
       }
 
     }
@@ -90,6 +101,9 @@ int main() {
       cout << "Panjang String : " << nama.length() << endl;
       reverse(nama.begin(), nama.end());
       cout << "Reverse String : " << nama << endl;
+      cout << endl;
+      cout << "Ulangi Program ? (y/n) : ";
+      cin >> repeat;
 
     }
 
@@ -97,7 +111,7 @@ int main() {
 
     case 3: {
       // Deklarasi dan Inisialisasi array
-
+      cin.ignore();
       string kata1, kata2;
       cout << "Menampilkan isi array kata1 : ";
       cout << kata1 << endl;
@@ -111,11 +125,11 @@ int main() {
       cout << "Penyalinan berhasil ! " << endl;
       cout << "Menampilkan array kata1 : " << kata1 << endl;
       cout << "Menampilkan array kata2 : " << kata2 << endl;
+      cout << endl;
+      cout << "Ulangi Program ? (y/n) : ";
+      cin >> repeat;
 
     } break;
     }
-    cout << endl;
-    cout << "Ulangi Program ? (y/n) : ";
-    cin >> repeat;
   }
 }
