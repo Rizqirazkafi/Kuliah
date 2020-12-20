@@ -28,13 +28,13 @@ int main() {
     case 1: {
       // PROGRAM INPUT STRING
 
-      cout << "Masukkan sub menu : ";
+      cout << "Masukkan sub menu (a/b/c): ";
       cin >> sub_opsi;
       if (sub_opsi == "a") {
         // scanf()
         cin.ignore();
         char compare[20];
-
+        cout << endl;
         cout << "Anda memilih scanf() " << endl;
         cout << "Nilai string saat ini : " << compare << endl;
         cout << "Panjang nilai saat ini : " << sizeof(compare) << endl;
@@ -54,6 +54,7 @@ int main() {
         // getline()
         cin.ignore();
         string compare;
+        cout << endl;
         cout << "Anda memilih getline() " << endl;
         cout << "Nilai string saat ini : " << compare << endl;
         cout << "Panjang string saat ini  : " << compare.length() << endl;
@@ -69,6 +70,7 @@ int main() {
         // fgets()
         cin.ignore();
         char compare[20];
+        cout << endl;
         cout << "Anda memilih fgets() " << endl;
         cout << "Nilai string saat ini : " << compare << endl;
         cout << "Panjang string saat ini  : " << sizeof(compare) << endl;
@@ -81,6 +83,7 @@ int main() {
         cin >> repeat;
 
       } else {
+        cout << endl;
         cout << "Maaf, input yang anda masukkan salah." << endl;
 
         cout << "Ulangi Program ? (y/n) : ";
@@ -119,6 +122,7 @@ int main() {
       cout << kata2 << endl;
       cout << "Masukkan array kata1 : ";
       getline(cin, kata1);
+      cout << endl;
       cout << "Isi array kata1 : " << kata1 << endl;
       cout << "Menyalin data array kata1 menuju array kata2 !" << endl;
       kata2 = kata1;
@@ -132,4 +136,6 @@ int main() {
     } break;
     }
   }
+  cout << endl;
+  cout << "Program has been terminated !" <<endl;
 }
