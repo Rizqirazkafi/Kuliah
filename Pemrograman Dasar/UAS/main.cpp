@@ -10,7 +10,7 @@ int main() {
   string username, password;
   int loginAttempt = 0;
 
-  while (loginAttempt < 5) {
+  while (loginAttempt <= 5) {
     cout << "Harap masukkan user name : ";
     cin >> username;
 
