@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-25T05:31:31.084Z" agent="5.0 (X11)" etag="c5vS5kSjs_OOddjKop9W" version="14.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-25T05:34:59.909Z" agent="5.0 (X11)" etag="ItEWNwhqp90nFha9saMx" version="14.1.2" type="github">
   <diagram id="VfqWdmrUvwHAs4061OCg" name="Page-1">
     <mxGraphModel dx="1099" dy="1738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -81,14 +81,20 @@
         <mxCell id="EDQNq00aGLGoHW4VI6uu-32" value="string prompt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="920" y="130" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="wHnIzs5yVhszRaqoL5yv-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EDQNq00aGLGoHW4VI6uu-33" target="EDQNq00aGLGoHW4VI6uu-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="EDQNq00aGLGoHW4VI6uu-33" value="prompt != n" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="940" y="200" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="wHnIzs5yVhszRaqoL5yv-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EDQNq00aGLGoHW4VI6uu-34" target="EDQNq00aGLGoHW4VI6uu-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="EDQNq00aGLGoHW4VI6uu-34" value="&amp;nbsp;long long jum_beli, bayar, diskon, jumlah[50], harga[50], sub_tot[50];" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="865" y="300" width="230" height="50" as="geometry" />
+          <mxGeometry x="865" y="320" width="230" height="50" as="geometry" />
         </mxCell>
         <mxCell id="EDQNq00aGLGoHW4VI6uu-35" value="string nama_barang[50];&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; long long tot;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="897.5" y="360" width="165" height="40" as="geometry" />
+          <mxGeometry x="897.5" y="390" width="165" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EDQNq00aGLGoHW4VI6uu-36" value="False" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="658.75" y="430" width="40" height="20" as="geometry" />
@@ -122,6 +128,12 @@
         </mxCell>
         <mxCell id="wHnIzs5yVhszRaqoL5yv-15" value="False" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="658.75" y="150" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wHnIzs5yVhszRaqoL5yv-18" value="&lt;font color=&quot;#FF0000&quot;&gt;Introduction&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="460" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wHnIzs5yVhszRaqoL5yv-19" value="Masukkan jumlah beli :" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="520" width="200" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
