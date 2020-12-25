@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-25T11:58:44.181Z" agent="5.0 (X11)" etag="gTVeIYG_TQ41D3ybg7wC" version="14.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-25T12:01:42.418Z" agent="5.0 (X11)" etag="L9uD4uV7vxtF7piAuUy9" version="14.1.2" type="github">
   <diagram id="VfqWdmrUvwHAs4061OCg" name="Page-1">
     <mxGraphModel dx="1099" dy="1738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -161,11 +161,43 @@
         <mxCell id="wHnIzs5yVhszRaqoL5yv-42" value="while(prompt != &quot;n&quot;)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="920" y="200" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="qQWm2DWHm97fjbudVYp1-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wHnIzs5yVhszRaqoL5yv-43" target="wHnIzs5yVhszRaqoL5yv-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="wHnIzs5yVhszRaqoL5yv-43" value="Input nama,jumlah, dan harga barang" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
-          <mxGeometry x="803.75" y="680" width="352.5" height="40" as="geometry" />
+          <mxGeometry x="800" y="600" width="352.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qQWm2DWHm97fjbudVYp1-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wHnIzs5yVhszRaqoL5yv-44" target="qQWm2DWHm97fjbudVYp1-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wHnIzs5yVhszRaqoL5yv-44" value="&lt;div&gt;sub_tot[i] = jumlah[i] * harga[i];&lt;/div&gt;&lt;div&gt;tot += sub_tot[i]&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="867.5" y="740" width="225" height="60" as="geometry" />
+          <mxGeometry x="867.5" y="670" width="225" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qQWm2DWHm97fjbudVYp1-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qQWm2DWHm97fjbudVYp1-3" target="wHnIzs5yVhszRaqoL5yv-43">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1160" y="810" />
+              <mxPoint x="1160" y="620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qQWm2DWHm97fjbudVYp1-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qQWm2DWHm97fjbudVYp1-3" target="qQWm2DWHm97fjbudVYp1-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qQWm2DWHm97fjbudVYp1-3" value="i &amp;lt; jum_beli " style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="940" y="770" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qQWm2DWHm97fjbudVYp1-6" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;3&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="950" y="880" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qQWm2DWHm97fjbudVYp1-8" value="True" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1062.5" y="790" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qQWm2DWHm97fjbudVYp1-9" value="False" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="980" y="850" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qQWm2DWHm97fjbudVYp1-10" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;3&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="50" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
