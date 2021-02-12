@@ -17,7 +17,7 @@ int main() {
     };
     struct data mahasiswa[100];
     int x, i, tot;
-    cout << "Rekap Nilai" << endl;
+    cout << "=========Rekap Nilai=========" << endl;
     cout << "Masukan Jumlah Mahasiswa : ";
     cin >> i;
     for (x = 0; x < i; x++) {
