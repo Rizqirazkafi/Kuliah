@@ -17,7 +17,7 @@ int main() {
       int tot;
     };
     struct data mahasiswa[100];
-    int x, i, tot;
+    int x, i;
     cout << "=========Rekap Nilai=========" << endl;
     cout << "Masukan Jumlah Mahasiswa : ";
     cin >> i;
