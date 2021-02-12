@@ -14,6 +14,7 @@ int main() {
       int partisipasi;
       int cal;
       int no;
+      int tot;
     };
     struct data mahasiswa[100];
     int x, i, tot;
@@ -36,9 +37,10 @@ int main() {
       cin >> mahasiswa[x].uts;
       cout << "Masukan Nilai UAS            : ";
       cin >> mahasiswa[x].uas;
-      tot = (mahasiswa[x].tugas * 0.3) + (mahasiswa[x].partisipasi * 0.2) +
+
+      mahasiswa[x].tot = (mahasiswa[x].tugas * 0.3) + (mahasiswa[x].partisipasi * 0.2) +
             (mahasiswa[x].uts * 0.2) + (mahasiswa[x].uas * 0.3);
-      cout << "Nilai Akhir                  : " << tot << endl;
+      cout << "Nilai Akhir                  : " << mahasiswa[x].tot << endl;
     }
 
     for (x = 0; x < i; x++) {
@@ -49,7 +51,7 @@ int main() {
       cout << "Nilai Tugas      : " << mahasiswa[x].tugas << endl;
       cout << "Nilai UTS        : " << mahasiswa[x].uts << endl;
       cout << "Nilai UAS        : " << mahasiswa[x].uas << endl;
-      cout << "Nilai Akhir      : " << tot << endl;
+      cout << "Nilai Akhir      : " << mahasiswa[x].tot << endl;
     }
     cout << endl;
     cout << "Gunakan Lagi Program? Y/N : ";
