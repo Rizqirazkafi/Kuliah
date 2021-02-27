@@ -1,5 +1,5 @@
 # Kuliah
-Tugas kuliah UNESA semester 1
+Tugas kuliah UNESA 
 
 # Buka file project draw.io
 1. Clone source code project ke akun github kalian
