@@ -1,6 +1,7 @@
 #include <iostream>
 
 using namespace std;
+
 int main() {
   char ulang = 'Y';
   while (ulang == 'Y' || ulang == 'y') {
@@ -15,8 +16,8 @@ int main() {
       int cal;
       int no;
       int tot;
-    };
-    struct data mahasiswa[100];
+    } mahasiswa[100];
+
     int x, i;
     cout << "=========Rekap Nilai=========" << endl;
     cout << "Masukan Jumlah Mahasiswa : ";
@@ -38,8 +39,9 @@ int main() {
       cout << "Masukan Nilai UAS            : ";
       cin >> mahasiswa[x].uas;
 
-      mahasiswa[x].tot = (mahasiswa[x].tugas * 0.3) + (mahasiswa[x].partisipasi * 0.2) +
-            (mahasiswa[x].uts * 0.2) + (mahasiswa[x].uas * 0.3);
+      mahasiswa[x].tot = (mahasiswa[x].tugas * 0.3) +
+                         (mahasiswa[x].partisipasi * 0.2) +
+                         (mahasiswa[x].uts * 0.2) + (mahasiswa[x].uas * 0.3);
       cout << "Nilai Akhir                  : " << mahasiswa[x].tot << endl;
     }
 
@@ -58,5 +60,3 @@ int main() {
     cin >> ulang;
   }
 }
-
-
