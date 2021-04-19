@@ -9,10 +9,19 @@ struct data {
 
 } mhs[100];
 
+void hitung(int n, data *mhs) {
+  for (int x = 0; x < n; ++x) {
+    mhs[x].tot =
+        (((mhs[x].tugas[0] + mhs[x].tugas[1] + mhs[x].tugas[2]) / 3) * 0.3) +
+        (mhs[x].partisipasi * 0.2) + (0.2 * mhs[x].uts) + (0.3 * mhs[x].uas);
+    
+  }
+}
+
 int main() {
   char redo = 'y';
   while (redo == 'y' || redo == 'Y') {
-    int x, r, i, jt;
+    int x, r, i, jt, n;
     cout << "===== Rekap Nilai =====" << endl;
     cout << "Masukkan jumlah mahasiswa : ";
     cin >> i;
@@ -52,10 +61,12 @@ int main() {
       cin >> mhs[x].uts;
       cout << "Masukan Nilai UAS            : ";
       cin >> mhs[x].uas;
-      mhs[x].tot =
-          (((mhs[x].tugas[0] + mhs[x].tugas[1] + mhs[x].tugas[2]) / 3) * 0.3) +
-          (mhs[x].partisipasi * 0.2) + (0.2 * mhs[x].uts) + (0.3 * mhs[x].uas);
-      cout << "Nilai Akhir                  : " << mhs[x].tot;
+      // mhs[x].tot =
+      //     (((mhs[x].tugas[0] + mhs[x].tugas[1] + mhs[x].tugas[2]) / 3) * 0.3)
+      //     + (mhs[x].partisipasi * 0.2) + (0.2 * mhs[x].uts) + (0.3 *
+      //     mhs[x].uas);
+      cout << "Nilai Akhir                  : ";
+      hitung(n, mhs);
     }
 
     for (x = 0; x < i; x++) {
