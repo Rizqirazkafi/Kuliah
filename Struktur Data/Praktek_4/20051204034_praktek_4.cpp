@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 
+// fungsi untuk sorting data dalam array
 void sortit(int data[],int a)
 {
     int i,j,MIN,temp;
@@ -16,6 +17,7 @@ void sortit(int data[],int a)
     }
 }
 
+// fungsi untuk mencari data pada array yang sudah di urut
 void searchit(int data[],int a,int x)
 {
     int l,r,m;
@@ -49,6 +51,7 @@ int main()
     }
 
     cout<<"data: ";
+    // memasukkan nilai array satu persatu
     for(int i=0;i<a;i++){
     cout<<data[i]<<",";
     }
