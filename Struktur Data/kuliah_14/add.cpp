@@ -2,7 +2,7 @@
 
 using namespace std;
 
-typedef struct Tree{
+struct Tree{
     int data;
     Tree *left;
     Tree *right;
@@ -11,9 +11,13 @@ typedef struct Tree{
 int main(){
     Tree *pohon;
     pohon = NULL;
-    int isEmpty(Tree *pohon){
-        if(pohon == NULL)
+    int isEmpty(Tree *pohon);
+        if(pohon == NULL){
+            cout << pohon ;
             return 1;
+
+        }
+            
         else return 0;
-    }
+    
 }
