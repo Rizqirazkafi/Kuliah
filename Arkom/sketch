@@ -2,11 +2,11 @@
 //Bot var
 CTBot myBot;
 //Wifi Config
-String ssid = ""; // Wifi ssid
-String pass = ""; //wifi password
+String ssid = "Faraday"; // Wifi ssid
+String pass = "mezametamae"; //wifi password
 //Telegram Token and ID
-String token = ""; //telegram bot token
-const int id = ;  // telegram bot id
+String token = "1745548338:AAGGD9wzuRtXO3BVrlUqOOtWUEIOSktBtDA";
+const int id = 1283139048;
 const int gasPin = A0; //Input form MQ2 using A0 analog pin
 int sensorValue;
 void setup() {
