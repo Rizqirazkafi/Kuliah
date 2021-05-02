@@ -10,7 +10,7 @@
 7. Jaringan Wifi
 
 ## Library Dependencies
-Daftar Library yang harus di install di ArduinoIDE
+### Daftar Library yang harus di install di ArduinoIDE
 1. CTBOT
     1. Pergi ke Sketch -> Include Library -> Manage Libraries.
     2. Cari library CTBot.
@@ -74,9 +74,9 @@ Daftar Library yang harus di install di ArduinoIDE
     ```
     
 ## Compile source code
-    1. Buka source code.
-    2. Pilih board :
-        1. Tools -> Board.
-        2. Pilih Generic ESP8266 Module.
-    3. Upload.
+1. Buka source code.
+2. Pilih board :
+    1. Tools -> Board.
+    2. Pilih Generic ESP8266 Module.
+3. Upload.
     
