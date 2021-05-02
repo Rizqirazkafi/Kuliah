@@ -17,6 +17,6 @@
 
 ## Langkah Langkah (Software)
 1. Atur ssid wifi pada kolom 
-   ```Arduino
+   ``` ino
    String ssid = " ";
    ```
