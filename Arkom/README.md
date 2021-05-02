@@ -11,11 +11,11 @@
 
 ## Library Dependencies
 Daftar Library yang harus di install di ArduinoIDE
-* CTBOT
+1. CTBOT
     1. Pergi ke Sketch -> Include Library -> Manage Libraries.
     2. Cari library CTBot.
     3. Install.
-* ESP8266
+2. ESP8266
     1. Pergi ke File -> Preferences.
     2. Tambahkan link berikut ke Additional Boards Manager URLs :
         > https://arduino.esp8266.com/stable/package_esp8266com_index.json
