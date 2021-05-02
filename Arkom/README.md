@@ -32,6 +32,7 @@ Daftar Library yang harus di install di ArduinoIDE
     /newbot botname_bot
     ```
     > Note : Ganti botname dengan nama bot yang dingingkan.
+    
     Setelah Bot, dibuat akan keluar token dari Bot
         
 3. Buka IDBot untuk mendapatkan ID bot
