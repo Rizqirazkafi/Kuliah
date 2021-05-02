@@ -32,6 +32,10 @@
 3. Sambungkan pin VCC pada kutub positive power source.
 4. Sambungkan NodeMCU kepada PC melalui koneksi kabel usb.
 
+Skema :
+
+![skema](Skema.png)
+
 ## Langkah Langkah (Software)
 
 ### Telegram
