@@ -209,12 +209,14 @@ int main() {
     cout << "4. Tampilkan In-Order\n";
     cout << "5. Tampilkan Post-Order\n";
     cout << "6. Hapus Data\n";
+    cout << "7. keluar\n";
     cout << "Masukkan pilihan anda: ";
     cin >> menu;
     cout << endl;
 
     switch (menu) {
     case 1: {
+
       cout << "Masukkan NIM: ";
       cin >> nim;
       cout << "Masukkan Nama: ";
@@ -246,6 +248,7 @@ int main() {
       }
       }
       insertdata(&pohon, nim, nama, prodi);
+
       break;
     }
 
@@ -296,6 +299,10 @@ int main() {
       } else {
         cout << "Masih kosong\n";
       }
+      break;
+    }
+    case 7: {
+      return 0;
       break;
     }
     }
