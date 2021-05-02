@@ -112,6 +112,9 @@ int main() {
       searchit(root, nim);
       break;
     }
+    case 3 :{
+        
+    }
     }
     cout << "Apa anda ingin kembali ke menu?(y/n): ";
     cin >> ulang;
