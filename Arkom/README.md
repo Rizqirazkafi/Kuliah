@@ -1,7 +1,7 @@
 # Smoke detector with Node MCU via Telegram Bot
 
 ## Komponen
-1. NodeMCU V3
+1. NodeMCU V3 ESP8266
 2. MQ-2 Gas Sensor
 3. Female to Female jumper cable
 4. USB cable
