@@ -1,0 +1,19 @@
+masukin polanya 
+A-B-C-D-F
+B-A-C-H
+C-A-B-E-G-H-I
+D-A-E-F-G-K-L
+E-C-D-F
+F-A-D-E
+G-C-D-I-K
+H-B-C-I
+I-C-G-H-J-M
+J-I-K-M
+K-D-G-J-L
+L-D-K-M
+M-I-J-L
+terus tempel kertas ke monitor, salin beres.siapa tau membantu
+
+https://csacademy.com/app/graph_editor/
+
+<Graph indexType="custom" height="400" width="400" nodes={[{label:"B",center:{x:69.1,y:31.9}},{label:"C",center:{x:175.1,y:32.9}},{label:"D",center:{x:142.6,y:240.2}},{label:"A",center:{x:31.9,y:103.3}},{label:"F",center:{x:36.6,y:376.4}},{label:"H",center:{x:212.5,y:270.1}},{label:"E",center:{x:83.7,y:239.5}},{label:"G",center:{x:289.3,y:400.8}},{label:"I",center:{x:333.3,y:216.6}},{label:"K",center:{x:258.6,y:32.2}},{label:"L",center:{x:370.4,y:41.3}},{label:"J",center:{x:385.1,y:349.4}},{label:"M",center:{x:389.3,y:172.4}}]} edges={[{source:0,target:1},{source:1,target:2},{source:2,target:4},{source:3,target:0},{source:0,target:3},{source:3,target:1},{source:1,target:5},{source:1,target:3},{source:3,target:0},{source:0,target:6},{source:6,target:7},{source:5,target:8},{source:2,target:3},{source:3,target:6},{source:6,target:4},{source:4,target:7},{source:7,target:9},{source:9,target:10},{source:6,target:1},{source:1,target:2},{source:2,target:4},{source:4,target:3},{source:3,target:2},{source:2,target:6},{source:7,target:1},{source:1,target:2},{source:2,target:8},{source:8,target:9},{source:5,target:0},{source:0,target:1},{source:1,target:8},{source:8,target:1},{source:1,target:7},{source:7,target:5},{source:5,target:11},{source:11,target:12},{source:11,target:8},{source:8,target:9},{source:9,target:12},{source:9,target:2},{source:2,target:7},{source:7,target:11},{source:11,target:10},{source:9,target:2},{source:2,target:7},{source:7,target:11},{source:11,target:10},{source:10,target:2},{source:2,target:9},{source:9,target:12},{source:12,target:8},{source:8,target:11},{source:11,target:10}]} />
